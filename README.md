@@ -121,9 +121,9 @@ Video Tutorials
 
 ## Media Coverage
 
-Past Stories
+**Past Stories**
 
-1. [Querying the Blockchain: Why The Graph Might Become One of the Important Protocols of the Web3](https://hackernoon.com/querying-the-blockchain-why-the-graph-might-become-one-of-the-important-protocols-of-the-web3-eb77673bc967)
+1. \*\*\*\*[Querying the Blockchain: Why The Graph Might Become One of the Important Protocols of the Web3](https://hackernoon.com/querying-the-blockchain-why-the-graph-might-become-one-of-the-important-protocols-of-the-web3-eb77673bc967)
 2. [The Graph Shares Partnership with Chainlink for DeFi Queries](https://defirate.com/the-graph-chainlink-partnership/)
 3. [Multicoin Capital Leads $2.5 Million Seed Round for Blockchain Data Index](https://www.coindesk.com/multicoin-capital-leads-2-5-million-seed-round-for-blockchain-data-index)
 4. [Graph Protocol Raises $2.4M in Seed Funding](http://www.finsmes.com/2019/02/graph-protocol-raises-2-4m-in-seed-funding.html)
@@ -169,11 +169,9 @@ Past Stories
 37. [Avalanche \(AVAX\) integrates with The Graph \(GRT\)](https://ctovision.com/avalanche-avax-integrates-with-the-graph-grt/)
 38. [Celo blockchain integrates The Graph’s indexing and querying support service](https://www.investing.com/news/cryptocurrency-news/celo-blockchain-integrates-the-graphs-indexing-and-querying-support-service-2467989)
 
-#### Interviews
-
 #### Podcasts
 
-[https://www.grtiq.com/podcast/](https://www.grtiq.com/podcast/)
+* [https://www.grtiq.com/podcast/](https://www.grtiq.com/podcast/)
 
 #### Videos
 
@@ -194,12 +192,6 @@ Past Stories
 13. The Expat Woman:[ https://www.facebook.com/TheExpatWoman/videos/so-honored-to-have-these-women-leaders-and-experts-in-blockchain-and-crypto-on-o/668202306921544/](https://www.facebook.com/TheExpatWoman/videos/so-honored-to-have-these-women-leaders-and-experts-in-blockchain-and-crypto-on-o/668202306921544/)  
 14. Community building Mark Smargon / Simona Pop / Tegan Kline at Stronger Together Summit:[ https://www.israelfiga.net/2020/12/15/community-building-mark-smargon-simona-pop-tegan-kline-at-stronger-together-summit/](https://www.israelfiga.net/2020/12/15/community-building-mark-smargon-simona-pop-tegan-kline-at-stronger-together-summit/) 
 15. Jannis at Celo’s event[ https://youtu.be/sJWcww0xLO8](https://youtu.be/sJWcww0xLO8)
-
-#### Speculation
-
-#### Criticism
-
-#### GRT and The Graph Mentions
 
 ## Developer Resources
 
