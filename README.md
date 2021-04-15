@@ -46,8 +46,6 @@ description: >-
 
 * [Ecosystem Calendar](https://calendar.google.com/calendar/u/0/embed?src=info@thegraph.foundation)
 
-### Partnerships
-
 ### FAQs
 
 ### Glossary of Terms
@@ -85,8 +83,7 @@ Video Tutorials
 
 ### Important Forum Threads
 
-* Protocol Townhall Posts - [https://forum.thegraph.com/tag/graph-townhall](https://forum.thegraph.com/tag/graph-townhall)
-* Protocol Townhall Agenda - Central location To be created
+* [Protocol Townhalls](https://forum.thegraph.com/tag/graph-townhall) 
 * Radicle Repo - [https://forum.thegraph.com/t/gip-0001-and-getting-started-with-gips-grps-grcs-etc/1722](https://forum.thegraph.com/t/gip-0001-and-getting-started-with-gips-grps-grcs-etc/1722)
 * The Graph Council Snapshot - [https://snapshot.org/\#/council.graphprotocol.eth](https://snapshot.org/#/council.graphprotocol.eth)
 * [Graph Council Meeting Notes](https://forum.thegraph.com/tag/graph-council)
