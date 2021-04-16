@@ -48,16 +48,50 @@ description: >-
 
 ### FAQs
 
+* [Indexing FAQs](https://thegraph.com/docs/network#faq)
+* [Subgraph FAQs](https://thegraph.com/docs/quick-start#faq)
+
 ### Glossary of Terms
+
+* _Work in progress_
+
+## Resources
+
+### Community Resources
+
+* [The Graph Academy](https://thegraph.academy/)
+
+### Community Tools and Dashboard
+
+
 
 ## Basics
 
 ### Onboarding Guides
 
-* Indexer
-* Delegator
-* Curator
-* Subgraph Developer
+* Indexer Docs
+* 
+#### **Delegator Documentation**
+
+* \*\*\*\*[https://thegraph.com/docs/network\#delegating](https://thegraph.com/docs/network#delegating)
+* [Official Network FAQ](https://docs.google.com/document/d/1h48y_hQWb3CXbwHytsP3Hli1fNMqaMsiaoJd1x31HCQ/edit?usp=sharing)
+
+#### Delegator Guides
+
+* [https://thegraphportal.com/how-to-delegate/](https://thegraphportal.com/how-to-delegate/)
+* [https://stakingfac.medium.com/the-graph-staking-guide-5ec1455f4783](https://stakingfac.medium.com/the-graph-staking-guide-5ec1455f4783)
+* [https://ryabina.medium.com/the-graph-network-launch-how-to-delegate-197bdbdba4f7](https://ryabina.medium.com/the-graph-network-launch-how-to-delegate-197bdbdba4f7)
+* [https://lizakripto.medium.com/step-by-step-guide-to-delegating-the-graph-tokens-86fec142eeda](https://lizakripto.medium.com/step-by-step-guide-to-delegating-the-graph-tokens-86fec142eeda)
+* [https://medium.com/stakemachine/thegraph-stake-or-delegate-1f17b9182404](https://medium.com/stakemachine/thegraph-stake-or-delegate-1f17b9182404)
+* [https://forum.thegraph.com/t/delegators-protocol-actions-faq/89](https://forum.thegraph.com/t/delegators-protocol-actions-faq/89)
+
+\*\*\*\*
+
+Curator Docs
+
+
+
+Subgraph Developer Docs
 
 ### Beginner Guides
 
