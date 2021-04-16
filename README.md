@@ -122,7 +122,10 @@ Video Tutorials
 * The Graph Council Snapshot - [https://snapshot.org/\#/council.graphprotocol.eth](https://snapshot.org/#/council.graphprotocol.eth)
 * [Graph Council Meeting Notes](https://forum.thegraph.com/tag/graph-council)
 
-### Governance Call Presentations
+### Governance Town Hall Calls
+
+* [Town Hall \#1](https://www.youtube.com/watch?v=BoK18crhIB4)
+* [Town Hall \#2](https://www.youtube.com/watch?v=N2x5CiHhNSw)
 
 ### Analytics
 
