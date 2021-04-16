@@ -16,7 +16,7 @@ description: >-
 * [The Graph Jobs](https://thegraph.com/jobs/)
 * [Developer Documentation](https://thegraph.com/docs/)
 * [Subgraph Explorer](https://thegraph.com/explorer/)
-* [Apply for a Graph Grant](https://airtable.com/shreX09LazIhsg0bU) 
+* [Apply for a Graph Grant ](https://airtable.com/shrdfvnFvVch3IOVm)
 * [Everest](https://everest.link)
 * [Delegate GRT on the Network](https://network.thegraph.com/network)
 
@@ -118,8 +118,8 @@ Video Tutorials
 ### Important Forum Threads
 
 * [Protocol Townhalls](https://forum.thegraph.com/tag/graph-townhall) 
-* Radicle Repo - [https://forum.thegraph.com/t/gip-0001-and-getting-started-with-gips-grps-grcs-etc/1722](https://forum.thegraph.com/t/gip-0001-and-getting-started-with-gips-grps-grcs-etc/1722)
-* The Graph Council Snapshot - [https://snapshot.org/\#/council.graphprotocol.eth](https://snapshot.org/#/council.graphprotocol.eth)
+* [Radicle Repo](https://forum.thegraph.com/t/gip-0001-and-getting-started-with-gips-grps-grcs-etc/1722) - 
+* [The Graph Council Snapshot](https://snapshot.org/#/council.graphprotocol.eth) 
 * [Graph Council Meeting Notes](https://forum.thegraph.com/tag/graph-council)
 
 ### Governance Town Hall Calls
