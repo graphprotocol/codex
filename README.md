@@ -208,21 +208,19 @@ Video Tutorials
 
 1. [State Channels at Scale 2020](https://www.youtube.com/watch?v=0jJT9TZxsQE)
 2. [Smart Contract Summit: Permissionless Participation in Global Decentralized Finance Panel](https://youtu.be/G9Ob8cgjwMw)
-3. GBC Sessions:[ DeFi Risk, Regulation and Reputation](https://www.youtube.com/watch?reload=9&v=-BqexscnzQI) - The CFTC, The Graph, TD Ameritrade, and the former SEC Comissioner with Tegan Kline GBC Sessions: DeFi Risk, Regulation and Reputation[ https://www.youtube.com/watch?reload=9&v=-BqexscnzQI](https://www.youtube.com/watch?reload=9&v=-BqexscnzQI) 
-4. The Future of DeFi with Aave, Curve, FTX, Solana, and The Graph[ The Future of DeFi panel](https://www.youtube.com/watch?v=YQmaGiELNEE&ab_channel=Solana) with The Graph, AAVE, Curve, Solana, and FTX with Tegan Kline [ https://www.youtube.com/watch?v=YQmaGiELNEE&ab\_channel=Solana](https://www.youtube.com/watch?v=YQmaGiELNEE&ab_channel=Solana) 
-5. Crypto Fest 2020 - Tegan Kline -[Yield Farming Level Up - How to Earn GRT on The Graph Network](https://www.youtube.com/watch?v=tkKjdJ_pvKo&feature=youtu.be) with Tegan Kline[ https://www.youtube.com/watch?v=tkKjdJ\_pvKo](https://www.youtube.com/watch?v=tkKjdJ_pvKo) 
+3. GBC Sessions:[ DeFi Risk, Regulation and Reputation](https://www.youtube.com/watch?reload=9&v=-BqexscnzQI) - The CFTC, The Graph, TD Ameritrade, and the former SEC Comissioner with Tegan Kline GBC Sessions: DeFi Risk, Regulation and Reputation
+4. The Future of DeFi with Aave, Curve, FTX, Solana, and The Graph[ The Future of DeFi panel](https://www.youtube.com/watch?v=YQmaGiELNEE&ab_channel=Solana) with The Graph, AAVE, Curve, Solana, and FTX with Tegan Kline
+5. Crypto Fest 2020 - Tegan Kline - [Yield Farming Level Up - How to Earn GRT on The Graph Network](https://www.youtube.com/watch?v=tkKjdJ_pvKo&feature=youtu.be) with Tegan Kline
 6. [Virtual Blockchain Conference: Launching a Blockchain Technology Company Fireside Chat](https://www.youtube.com/watch?v=fcDIYs74t3k)
 7. CoinDesk’s Invest: Ethereum Economy on[ Measuring the DeFi Economy via The Graph - TVL and Beyond](https://docs.google.com/presentation/d/1ncHo-0v3d1Rc04c-kcTqNi9WK6D-bYzjWoDHnvEJW3M/edit#slide=id.ga1cc0395a3_0_0) 
-8. Kraken Discusses The Graph Protocol's New Decentralized Network With Tegan Kline[ https://www.youtube.com/watch?v=MZmkc3770YM](https://www.youtube.com/watch?v=MZmkc3770YM) [ https://www.pscp.tv/krakenfx/1RDxlPoQQadxL](https://www.pscp.tv/krakenfx/1RDxlPoQQadxL) 
-   1. [https://www.youtube.com/watch?v=MZmkc3770YM](https://www.youtube.com/watch?v=MZmkc3770YM)
-   2. [https://www.facebook.com/KrakenFX/videos/the-graph/418449102754386/?\_\_so\_\_=permalink&\_\_rv\_\_=related\_videos](https://www.facebook.com/KrakenFX/videos/the-graph/418449102754386/?__so__=permalink&__rv__=related_videos)
-9. [GBC “DeFi Risk, Regulation and Reputation” recording](https://www.youtube.com/watch?v=-BqexscnzQI&trk=organization-update-content_share-embed-video_share-article_title)
+8. [Kraken Discusses The Graph Protocol's New Decentralized Network With Tegan Kline](https://www.youtube.com/watch?v=MZmkc3770YM)
+9. [GBC “DeFi Risk, Regulation and Reputation”](https://www.youtube.com/watch?v=-BqexscnzQI&trk=organization-update-content_share-embed-video_share-article_title)
 10. [Aligning Ecosystem Incentives for Sustainable Outcomes](https://invidious.zapashcanon.fr/watch?v=0-AJyExubQc)
 11. [SALT: Meltem Demirors & Tegan Kline: Has Bitcoin Won Over Institutional Investors?](https://www.youtube.com/watch?v=ePSbLZ25Lt8)
 12. [BUIDL with The Graph Protocol at ETHDenver 2021](https://medium.com/ethdenver/buidl-with-the-graph-protocol-at-ethdenver-2021-83a6b110179e%20)
 13. [The Expat Woman](https://www.facebook.com/TheExpatWoman/videos/so-honored-to-have-these-women-leaders-and-experts-in-blockchain-and-crypto-on-o/668202306921544/%20%20)
 14. [Community building Mark Smargon / Simona Pop / Tegan Kline at Stronger Together Summit](https://www.israelfiga.net/2020/12/15/community-building-mark-smargon-simona-pop-tegan-kline-at-stronger-together-summit/%20)
-15. [Jannis at Celo’s event](https://youtu.be/sJWcww0xLO8)
+15. [Jannis at Celo’s](https://youtu.be/sJWcww0xLO8) Kuneco Community All-Hands
 
 ## Developer Resources
 
