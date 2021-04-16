@@ -63,7 +63,18 @@ description: >-
 
 ### Community Tools and Dashboard
 
+* [https://graphlets.io/](https://graphlets.io/) 
+* [https://dappquery.com/dapp/graph-mainnet-delegator-10053](https://dappquery.com/dapp/graph-mainnet-delegator-10053)
+* [https://thegraph.live/](https://thegraph.live/)
+* [https://thegraph.stake-machine.com/](https://thegraph.stake-machine.com/)
+* [https://oracleminer.com/graph/indexers/](https://oracleminer.com/graph/indexers/)
+* [https://ryabina.io/thegraph](https://ryabina.io/thegraph)
 
+### Rewards Calculator
+
+* [http://reward.suntzu.me/](http://reward.suntzu.me/)
+* [Graph Daily Rewards Calculator](https://docs.google.com/spreadsheets/d/1VCbhgzhH_6X0qHBRt2xhzQXUH2YQaeFbSxrAaXWUWbM/)
+* [Protofire.eth - Rewards Navigator](https://docs.google.com/spreadsheets/d/1Zg39W_TJANNiYY-HrgAlrgolrTt7aFvVF1swzngjH5o/)
 
 ## Basics
 
@@ -71,12 +82,12 @@ description: >-
 
 * Indexer Docs
 * 
-#### **Delegator Documentation**
+### **Delegator Documentation**
 
 * \*\*\*\*[https://thegraph.com/docs/network\#delegating](https://thegraph.com/docs/network#delegating)
 * [Official Network FAQ](https://docs.google.com/document/d/1h48y_hQWb3CXbwHytsP3Hli1fNMqaMsiaoJd1x31HCQ/edit?usp=sharing)
 
-#### Delegator Guides
+### Delegator Guides
 
 * [https://thegraphportal.com/how-to-delegate/](https://thegraphportal.com/how-to-delegate/)
 * [https://stakingfac.medium.com/the-graph-staking-guide-5ec1455f4783](https://stakingfac.medium.com/the-graph-staking-guide-5ec1455f4783)
@@ -85,7 +96,10 @@ description: >-
 * [https://medium.com/stakemachine/thegraph-stake-or-delegate-1f17b9182404](https://medium.com/stakemachine/thegraph-stake-or-delegate-1f17b9182404)
 * [https://forum.thegraph.com/t/delegators-protocol-actions-faq/89](https://forum.thegraph.com/t/delegators-protocol-actions-faq/89)
 
-\*\*\*\*
+### Delegator Videos
+
+* [How to Delegate GRT tokens on The Graph Protocol](https://www.youtube.com/watch?v=3mobhcCHEWE)
+* [How To Delegate Your GRT Token \| The Graph Protocol](https://www.youtube.com/watch?v=VxET1UOjAMg)
 
 Curator Docs
 
