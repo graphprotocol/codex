@@ -41,7 +41,9 @@ description: >-
 
 ### Meetings
 
-* 
+* Protocol Townhalls [Calendar](https://calendar.google.com/calendar/u/0/embed?src=info@thegraph.foundation) \| [Video Playlist](https://www.youtube.com/watch?v=BoK18crhIB4&list=PLTqyKgxaGF3Tj_A6eqV8V_aQoRwd2oHa_) \| [Forum Thread](https://forum.thegraph.com/tag/graph-townhall)
+* NFT Community Calls [Calendar](https://calendar.google.com/calendar/u/0/embed?src=info@thegraph.foundation) \| [Video Playlist](https://www.youtube.com/watch?v=SMV3rpEwxFU&list=PLTqyKgxaGF3Qrf_spFvQe5cUYGUNEST6D)
+
 ### Upcoming Events
 
 * [Ecosystem Calendar](https://calendar.google.com/calendar/u/0/embed?src=info@thegraph.foundation)
@@ -63,14 +65,21 @@ description: >-
 
 ### Community Tools and Dashboard
 
+* [Network Explorer](https://network.thegraph.com/)
+* [Subgraph Explorer](https://thegraph.com/explorer/)
+* [Graphscan by Ryabina](https://graphscan.io/)
+* [Graphlets by Staking Facilities](https://graphlets.io/)
+
 
 
 ## Basics
 
 ### Onboarding Guides
 
-* Indexer Docs
-* 
+#### **Indexer Documentation**
+
+* \*\*\*\*
+
 #### **Delegator Documentation**
 
 * \*\*\*\*[https://thegraph.com/docs/network\#delegating](https://thegraph.com/docs/network#delegating)
@@ -87,11 +96,11 @@ description: >-
 
 \*\*\*\*
 
-Curator Docs
+#### Curator Documentation
 
 
 
-Subgraph Developer Docs
+#### Subgraph Developer Docs
 
 ### Beginner Guides
 
@@ -118,7 +127,7 @@ Video Tutorials
 ### Important Forum Threads
 
 * [Protocol Townhalls](https://forum.thegraph.com/tag/graph-townhall) 
-* [Radicle Repo](https://forum.thegraph.com/t/gip-0001-and-getting-started-with-gips-grps-grcs-etc/1722) - 
+* [Radicle Repo](https://forum.thegraph.com/t/gip-0001-and-getting-started-with-gips-grps-grcs-etc/1722)
 * [The Graph Council Snapshot](https://snapshot.org/#/council.graphprotocol.eth) 
 * [Graph Council Meeting Notes](https://forum.thegraph.com/tag/graph-council)
 
