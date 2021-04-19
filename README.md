@@ -84,6 +84,7 @@ description: >-
 
 * \*\*\*\*[https://thegraph.com/docs/network\#delegating](https://thegraph.com/docs/network#delegating)
 * [Official Network FAQ](https://docs.google.com/document/d/1h48y_hQWb3CXbwHytsP3Hli1fNMqaMsiaoJd1x31HCQ/edit?usp=sharing)
+* [https://thegraph.academy/delegators/delegator-resources/](https://thegraph.academy/delegators/delegator-resources/)
 
 #### Delegator Guides
 
@@ -136,17 +137,16 @@ Video Tutorials
 * [Town Hall \#1](https://www.youtube.com/watch?v=BoK18crhIB4)
 * [Town Hall \#2](https://www.youtube.com/watch?v=N2x5CiHhNSw)
 
-### Analytics
-
 ### Meetings and Discussions
 
+* 
 ### Voting Basics
 
 #### Voter Onboarding
 
-#### Voting Dashboard
-
-#### Voting Setup Guides
+* [Voting on a Proposal via Snapshot](https://thegraph.academy/ecosystem/voting-on-snapshot/)
+* [Voting on a Proposal via Snapshot \[Video Tutorial\]](https://thegraph.academy/snapshot-voting-video-tutorial/)
+* [Voting Power on Snapshot](https://thegraph.academy/ecosystem/voting-power-on-snapshot/)
 
 ## GRT
 
@@ -157,10 +157,6 @@ Video Tutorials
 * [Coinbase Pro](https://pro.coinbase.com/trade/GRT-USD%20)
 * [Binance](https://www.binance.com/en/trade/GRT_USDT?layout=pro%20)
 * [Uniswap](https://info.uniswap.org/pair/0xDfa42Ba0130425b21a1568507B084CC246fb0C8F)
-
-## Milestones \| Achievements
-
-#### 2021
 
 ## Media Coverage
 
