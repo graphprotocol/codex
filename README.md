@@ -107,6 +107,75 @@ description: >-
 
 #### Subgraph Developer Docs
 
+Tools
+
+Protofire Subgraph Toolkit:
+
+* [https://github.com/protofire/subgraph-toolkit](https://github.com/protofire/subgraph-toolkit)
+
+  Gnosis Subgraphs Monitor:
+
+* [https://github.com/gnosis/thegraph-subgraphs-monitor](https://github.com/gnosis/thegraph-subgraphs-monitor)
+
+  Synthetix Subgraph-results-pager:
+
+* [https://github.com/justinjmoses/graph-results-pager](https://github.com/justinjmoses/graph-results-pager)
+
+  Utility to get paged results from The Graph endpoints
+
+  GraphProtocol-utils:
+
+* [https://github.com/Amxx/graphprotocol-utils](https://github.com/Amxx/graphprotocol-utils)
+
+  mStable Subgraph Utilities:
+
+* [https://github.com/mstable/mStable-subgraphs-monorepo/tree/master/packages/utils](https://github.com/mstable/mStable-subgraphs-monorepo/tree/master/packages/utils)
+
+  Dennison's Subgraph Health Check:
+
+* [https://subgraphtools.com/](https://subgraphtools.com/)
+* Community videos:
+  * Wildcards: [https://www.youtube.com/watch?v=\_4iipzOwq-U](https://www.youtube.com/watch?v=_4iipzOwq-U)
+  * Aragon: [https://www.youtube.com/watch?v=JNqN3fek6FY](https://www.youtube.com/watch?v=JNqN3fek6FY)
+  * PoolTogether workshop @ETHDenver: [https://www.youtube.com/watch?v=GqU\_-ffyz0Q&t=21143s](https://www.youtube.com/watch?v=GqU_-ffyz0Q&t=21143s)
+* Community Articles: 
+  * [https://medium.com/protofire-blog/subgraph-development-part-1-understanding-and-aggregating-data-ef0c9a61063d](https://medium.com/protofire-blog/subgraph-development-part-1-understanding-and-aggregating-data-ef0c9a61063d)
+  * [https://medium.com/protofire-blog/subgraph-development-part-2-handling-arrays-and-identifying-entities-30d63d4b1dc6](https://medium.com/protofire-blog/subgraph-development-part-2-handling-arrays-and-identifying-entities-30d63d4b1dc6)
+  * How to create an Ethereum DeFi realtime Dashboard using Google Data Studio: [https://towardsdatascience.com/how-to-create-a-ethereum-defi-realtime-dashboard-a60c23b527f7](https://towardsdatascience.com/how-to-create-a-ethereum-defi-realtime-dashboard-a60c23b527f7)
+    * Result: [https://datastudio.google.com/reporting/c7806832-8ba6-4250-9c27-8dab1238247b/page/6zXD](https://datastudio.google.com/reporting/c7806832-8ba6-4250-9c27-8dab1238247b/page/6zXD)
+  * Creating subgraphs: 
+    * [https://theethernaut.substack.com/p/creating-a-dark-side-subgraph](https://theethernaut.substack.com/p/creating-a-dark-side-subgraph)
+  * [https://theethernaut.substack.com/p/developer-superpowers-with-thegraph](https://theethernaut.substack.com/p/developer-superpowers-with-thegraph)
+* Time travel queries: [https://blocklytics.org/blog/ethereum-blocks-subgraph-made-for-time-travel/](https://blocklytics.org/blog/ethereum-blocks-subgraph-made-for-time-travel/)
+* Date strings in AssemblyScript: [https://medium.com/blockrocket/how-to-create-date-strings-using-assemblyscript-in-the-graph-f7871f48e92d](https://medium.com/blockrocket/how-to-create-date-strings-using-assemblyscript-in-the-graph-f7871f48e92d)
+* Scaffold-eth: [https://github.com/austintgriffith/scaffold-eth/tree/graph-dev](https://github.com/austintgriffith/scaffold-eth/tree/graph-dev)
+* Create-eth-app: [https://github.com/PaulRBerg/create-eth-app](https://github.com/PaulRBerg/create-eth-app)
+
+## Developer Resources
+
+#### Github Orgs:
+
+* [GitHub](https://github.com/graphprotocol)‪
+
+#### Documentation
+
+* [Developer Documentation](https://thegraph.com/docs/)
+
+#### Guides and Tutorials
+
+* [The Complete Guide to Full Stack Ethereum Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) by Nader Dabit
+
+#### Workshops
+
+* Scaling Ethereum 2021: Deploying Subgraphs on EVM Chains
+* [GR9 Gitcoin Hackathon 2021: Deep Dive on Uniswap & How it Uses The Graph](https://www.youtube.com/watch?v=74OVNPEo62M)
+* [NFTHack Hackathon 2021](https://www.youtube.com/watch?v=uFxqYQCQGk8)
+* [MarketMake Hackathon 2021: Building Subgraphs on The Graph](https://youtu.be/LsnUkPO_yUw)
+* [ETHOnline Hackathon 2020: Building Subgraphs on The Graph](https://youtu.be/coa0Vw47qNc)
+* [HackFS hackathon 2020: How to index and query Ethereum and IPFS data using The Graph](https://www.youtube.com/watch?v=e5OwjDao3MA)
+* [ETHWaterloo 2019: Indexing the New Economy with The Graph](https://www.youtube.com/watch?v=_BSOGh89iDs)
+* [ETHNew York 2019: Building Dapps that load fast on The Graph](https://www.youtube.com/watch?v=TNtdknynmxM)
+
 ### Beginner Guides
 
 ### Tutorials
@@ -233,31 +302,6 @@ Video Tutorials
 13. [The Expat Woman](https://www.facebook.com/TheExpatWoman/videos/so-honored-to-have-these-women-leaders-and-experts-in-blockchain-and-crypto-on-o/668202306921544/%20%20)
 14. [Community building Mark Smargon / Simona Pop / Tegan Kline at Stronger Together Summit](https://www.israelfiga.net/2020/12/15/community-building-mark-smargon-simona-pop-tegan-kline-at-stronger-together-summit/%20)
 15. [Jannis at Celo’s](https://youtu.be/sJWcww0xLO8) Kuneco Community All-Hands
-
-## Developer Resources
-
-#### Github Orgs:
-
-* [GitHub](https://github.com/graphprotocol)‪
-
-#### Documentation
-
-* [Developer Documentation](https://thegraph.com/docs/)
-
-#### Guides and Tutorials
-
-* [The Complete Guide to Full Stack Ethereum Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) by Nader Dabit
-
-#### Workshops
-
-* Scaling Ethereum 2021: Deploying Subgraphs on EVM Chains
-* [GR9 Gitcoin Hackathon 2021: Deep Dive on Uniswap & How it Uses The Graph](https://www.youtube.com/watch?v=74OVNPEo62M)
-* [NFTHack Hackathon 2021](https://www.youtube.com/watch?v=uFxqYQCQGk8)
-* [MarketMake Hackathon 2021: Building Subgraphs on The Graph](https://youtu.be/LsnUkPO_yUw)
-* [ETHOnline Hackathon 2020: Building Subgraphs on The Graph](https://youtu.be/coa0Vw47qNc)
-* [HackFS hackathon 2020: How to index and query Ethereum and IPFS data using The Graph](https://www.youtube.com/watch?v=e5OwjDao3MA)
-* [ETHWaterloo 2019: Indexing the New Economy with The Graph](https://www.youtube.com/watch?v=_BSOGh89iDs)
-* [ETHNew York 2019: Building Dapps that load fast on The Graph](https://www.youtube.com/watch?v=TNtdknynmxM)
 
 ## Translated Resources
 
