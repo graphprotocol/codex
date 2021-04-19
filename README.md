@@ -74,9 +74,7 @@ description: >-
 
 ## Basics
 
-### Onboarding Guides
-
-#### **Indexer Documentation**
+### **Indexer Documentation**
 
 **Kubernetes**
 
@@ -84,7 +82,7 @@ description: >-
 
 * \*\*\*\*
 
-#### **Delegator Documentation**
+### **Delegator Documentation**
 
 * \*\*\*\*[https://thegraph.com/docs/network\#delegating](https://thegraph.com/docs/network#delegating)
 * [Official Network FAQ](https://docs.google.com/document/d/1h48y_hQWb3CXbwHytsP3Hli1fNMqaMsiaoJd1x31HCQ/edit?usp=sharing)
@@ -101,51 +99,36 @@ description: >-
 
 \*\*\*\*
 
-#### Curator Documentation
+### Curator Documentation
 
 
 
-#### Subgraph Developer Docs
+### Subgraph Developer Documentation
 
-Tools
+#### Tools
 
-Protofire Subgraph Toolkit:
+* Protofire Subgraph Toolkit: [https://github.com/protofire/subgraph-toolkit](https://github.com/protofire/subgraph-toolkit)
+* Gnosis Subgraphs Monitor: [https://github.com/gnosis/thegraph-subgraphs-monitor](https://github.com/gnosis/thegraph-subgraphs-monitor)
+* Synthetix Subgraph-results-pager: [https://github.com/justinjmoses/graph-results-pager](https://github.com/justinjmoses/graph-results-pager)
+* Utility to get paged results from The Graph endpoints - GraphProtocol-utils: [https://github.com/Amxx/graphprotocol-utils](https://github.com/Amxx/graphprotocol-utils)
+* mStable Subgraph Utilities: [https://github.com/mstable/mStable-subgraphs-monorepo/tree/master/packages/utils](https://github.com/mstable/mStable-subgraphs-monorepo/tree/master/packages/utils)
+* Dennison's Subgraph Health Check: [https://subgraphtools.com/](https://subgraphtools.com/)
 
-* [https://github.com/protofire/subgraph-toolkit](https://github.com/protofire/subgraph-toolkit)
+Community videos:
 
-  Gnosis Subgraphs Monitor:
+* Wildcards: [https://www.youtube.com/watch?v=\_4iipzOwq-U](https://www.youtube.com/watch?v=_4iipzOwq-U)
+* Aragon: [https://www.youtube.com/watch?v=JNqN3fek6FY](https://www.youtube.com/watch?v=JNqN3fek6FY)
+* PoolTogether workshop @ETHDenver: [https://www.youtube.com/watch?v=GqU\_-ffyz0Q&t=21143s](https://www.youtube.com/watch?v=GqU_-ffyz0Q&t=21143s)
 
-* [https://github.com/gnosis/thegraph-subgraphs-monitor](https://github.com/gnosis/thegraph-subgraphs-monitor)
+Community Articles: 
 
-  Synthetix Subgraph-results-pager:
-
-* [https://github.com/justinjmoses/graph-results-pager](https://github.com/justinjmoses/graph-results-pager)
-
-  Utility to get paged results from The Graph endpoints
-
-  GraphProtocol-utils:
-
-* [https://github.com/Amxx/graphprotocol-utils](https://github.com/Amxx/graphprotocol-utils)
-
-  mStable Subgraph Utilities:
-
-* [https://github.com/mstable/mStable-subgraphs-monorepo/tree/master/packages/utils](https://github.com/mstable/mStable-subgraphs-monorepo/tree/master/packages/utils)
-
-  Dennison's Subgraph Health Check:
-
-* [https://subgraphtools.com/](https://subgraphtools.com/)
-* Community videos:
-  * Wildcards: [https://www.youtube.com/watch?v=\_4iipzOwq-U](https://www.youtube.com/watch?v=_4iipzOwq-U)
-  * Aragon: [https://www.youtube.com/watch?v=JNqN3fek6FY](https://www.youtube.com/watch?v=JNqN3fek6FY)
-  * PoolTogether workshop @ETHDenver: [https://www.youtube.com/watch?v=GqU\_-ffyz0Q&t=21143s](https://www.youtube.com/watch?v=GqU_-ffyz0Q&t=21143s)
-* Community Articles: 
-  * [https://medium.com/protofire-blog/subgraph-development-part-1-understanding-and-aggregating-data-ef0c9a61063d](https://medium.com/protofire-blog/subgraph-development-part-1-understanding-and-aggregating-data-ef0c9a61063d)
-  * [https://medium.com/protofire-blog/subgraph-development-part-2-handling-arrays-and-identifying-entities-30d63d4b1dc6](https://medium.com/protofire-blog/subgraph-development-part-2-handling-arrays-and-identifying-entities-30d63d4b1dc6)
-  * How to create an Ethereum DeFi realtime Dashboard using Google Data Studio: [https://towardsdatascience.com/how-to-create-a-ethereum-defi-realtime-dashboard-a60c23b527f7](https://towardsdatascience.com/how-to-create-a-ethereum-defi-realtime-dashboard-a60c23b527f7)
-    * Result: [https://datastudio.google.com/reporting/c7806832-8ba6-4250-9c27-8dab1238247b/page/6zXD](https://datastudio.google.com/reporting/c7806832-8ba6-4250-9c27-8dab1238247b/page/6zXD)
-  * Creating subgraphs: 
-    * [https://theethernaut.substack.com/p/creating-a-dark-side-subgraph](https://theethernaut.substack.com/p/creating-a-dark-side-subgraph)
-  * [https://theethernaut.substack.com/p/developer-superpowers-with-thegraph](https://theethernaut.substack.com/p/developer-superpowers-with-thegraph)
+* [https://medium.com/protofire-blog/subgraph-development-part-1-understanding-and-aggregating-data-ef0c9a61063d](https://medium.com/protofire-blog/subgraph-development-part-1-understanding-and-aggregating-data-ef0c9a61063d)
+* [https://medium.com/protofire-blog/subgraph-development-part-2-handling-arrays-and-identifying-entities-30d63d4b1dc6](https://medium.com/protofire-blog/subgraph-development-part-2-handling-arrays-and-identifying-entities-30d63d4b1dc6)
+* How to create an Ethereum DeFi realtime Dashboard using Google Data Studio: [https://towardsdatascience.com/how-to-create-a-ethereum-defi-realtime-dashboard-a60c23b527f7](https://towardsdatascience.com/how-to-create-a-ethereum-defi-realtime-dashboard-a60c23b527f7)
+  * Result: [https://datastudio.google.com/reporting/c7806832-8ba6-4250-9c27-8dab1238247b/page/6zXD](https://datastudio.google.com/reporting/c7806832-8ba6-4250-9c27-8dab1238247b/page/6zXD)
+* Creating subgraphs: 
+  * [https://theethernaut.substack.com/p/creating-a-dark-side-subgraph](https://theethernaut.substack.com/p/creating-a-dark-side-subgraph)
+* [https://theethernaut.substack.com/p/developer-superpowers-with-thegraph](https://theethernaut.substack.com/p/developer-superpowers-with-thegraph)
 * Time travel queries: [https://blocklytics.org/blog/ethereum-blocks-subgraph-made-for-time-travel/](https://blocklytics.org/blog/ethereum-blocks-subgraph-made-for-time-travel/)
 * Date strings in AssemblyScript: [https://medium.com/blockrocket/how-to-create-date-strings-using-assemblyscript-in-the-graph-f7871f48e92d](https://medium.com/blockrocket/how-to-create-date-strings-using-assemblyscript-in-the-graph-f7871f48e92d)
 * Scaffold-eth: [https://github.com/austintgriffith/scaffold-eth/tree/graph-dev](https://github.com/austintgriffith/scaffold-eth/tree/graph-dev)
