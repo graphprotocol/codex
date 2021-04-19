@@ -91,18 +91,18 @@ description: >-
 
 #### Delegator Guides
 
-* [https://thegraphportal.com/how-to-delegate/](https://thegraphportal.com/how-to-delegate/)
-* [https://stakingfac.medium.com/the-graph-staking-guide-5ec1455f4783](https://stakingfac.medium.com/the-graph-staking-guide-5ec1455f4783)
-* [https://ryabina.medium.com/the-graph-network-launch-how-to-delegate-197bdbdba4f7](https://ryabina.medium.com/the-graph-network-launch-how-to-delegate-197bdbdba4f7)
-* [https://lizakripto.medium.com/step-by-step-guide-to-delegating-the-graph-tokens-86fec142eeda](https://lizakripto.medium.com/step-by-step-guide-to-delegating-the-graph-tokens-86fec142eeda)
-* [https://medium.com/stakemachine/thegraph-stake-or-delegate-1f17b9182404](https://medium.com/stakemachine/thegraph-stake-or-delegate-1f17b9182404)
-* [https://forum.thegraph.com/t/delegators-protocol-actions-faq/89](https://forum.thegraph.com/t/delegators-protocol-actions-faq/89)
+* [How to Delegate - The Graph Portal](https://thegraphportal.com/how-to-delegate/)
+* [The Graph Delegation Guide - Staking Facilities](https://stakingfac.medium.com/the-graph-staking-guide-5ec1455f4783)
+* [The Graph Network launch. How to delegate? - Ryabina](https://ryabina.medium.com/the-graph-network-launch-how-to-delegate-197bdbdba4f7)
+* [Step-by-Step Guide to Delegating The Graph Tokens - Lizario](https://lizakripto.medium.com/step-by-step-guide-to-delegating-the-graph-tokens-86fec142eeda) 
+* [TheGraph: Stake or Delegate? - Stake Machine](https://medium.com/stakemachine/thegraph-stake-or-delegate-1f17b9182404)
+* [Delegators Protocol Actions - FAQ - Indexer Payne](https://forum.thegraph.com/t/delegators-protocol-actions-faq/89)
 
 ### Curator Documentation
 
-* [https://forum.thegraph.com/c/network-participants/curators/37](https://forum.thegraph.com/c/network-participants/curators/37)
-* [https://forum.thegraph.com/t/this-month-in-curation-1/1655](https://forum.thegraph.com/t/this-month-in-curation-1/1655)
-* [https://forum.thegraph.com/t/this-month-in-curation-2/1899/2](https://forum.thegraph.com/t/this-month-in-curation-2/1899/2)
+* [Curator Forum Threads](https://forum.thegraph.com/c/network-participants/curators/37)
+* [This Month in Curation \#1](https://forum.thegraph.com/t/this-month-in-curation-1/1655)
+* [This Month in Curation \#2](https://forum.thegraph.com/t/this-month-in-curation-2/1899/2)
 
 ### Subgraph Developer Documentation
 
@@ -112,12 +112,12 @@ description: >-
 
 #### Tools
 
-* Protofire Subgraph Toolkit: [https://github.com/protofire/subgraph-toolkit](https://github.com/protofire/subgraph-toolkit)
-* Gnosis Subgraphs Monitor: [https://github.com/gnosis/thegraph-subgraphs-monitor](https://github.com/gnosis/thegraph-subgraphs-monitor)
-* Synthetix Subgraph-results-pager: [https://github.com/justinjmoses/graph-results-pager](https://github.com/justinjmoses/graph-results-pager)
-* Utility to get paged results from The Graph endpoints - GraphProtocol-utils: [https://github.com/Amxx/graphprotocol-utils](https://github.com/Amxx/graphprotocol-utils)
-* mStable Subgraph Utilities: [https://github.com/mstable/mStable-subgraphs-monorepo/tree/master/packages/utils](https://github.com/mstable/mStable-subgraphs-monorepo/tree/master/packages/utils)
-* Dennison's Subgraph Health Check: [https://subgraphtools.com/](https://subgraphtools.com/)
+* [Protofire Subgraph Toolkit](https://github.com/protofire/subgraph-toolkit)
+* [Gnosis Subgraphs Monitor](https://github.com/gnosis/thegraph-subgraphs-monitor) 
+* [Synthetix Subgraph-results-pager](https://github.com/justinjmoses/graph-results-pager)
+* [Utility to get paged results from The Graph endpoints - GraphProtocol-utils](https://github.com/Amxx/graphprotocol-utils)
+* [mStable Subgraph Utilities](https://github.com/mstable/mStable-subgraphs-monorepo/tree/master/packages/utils)
+* [Dennison's Subgraph Health Check](https://subgraphtools.com/) 
 
 #### Documentation
 
@@ -129,23 +129,22 @@ description: >-
 
 #### Community videos:
 
-* Wildcards: [https://www.youtube.com/watch?v=\_4iipzOwq-U](https://www.youtube.com/watch?v=_4iipzOwq-U)
-* Aragon: [https://www.youtube.com/watch?v=JNqN3fek6FY](https://www.youtube.com/watch?v=JNqN3fek6FY)
-* PoolTogether workshop @ETHDenver: [https://www.youtube.com/watch?v=GqU\_-ffyz0Q&t=21143s](https://www.youtube.com/watch?v=GqU_-ffyz0Q&t=21143s)
+* [Wildcards](https://www.youtube.com/watch?v=_4iipzOwq-U)
+* [Aragon](https://www.youtube.com/watch?v=JNqN3fek6FY)
+* [PoolTogether workshop @ETHDenver](https://www.youtube.com/watch?v=GqU_-ffyz0Q&t=21143s)
 
 #### Community Articles: 
 
-* [https://medium.com/protofire-blog/subgraph-development-part-1-understanding-and-aggregating-data-ef0c9a61063d](https://medium.com/protofire-blog/subgraph-development-part-1-understanding-and-aggregating-data-ef0c9a61063d)
-* [https://medium.com/protofire-blog/subgraph-development-part-2-handling-arrays-and-identifying-entities-30d63d4b1dc6](https://medium.com/protofire-blog/subgraph-development-part-2-handling-arrays-and-identifying-entities-30d63d4b1dc6)
-* How to create an Ethereum DeFi realtime Dashboard using Google Data Studio: [https://towardsdatascience.com/how-to-create-a-ethereum-defi-realtime-dashboard-a60c23b527f7](https://towardsdatascience.com/how-to-create-a-ethereum-defi-realtime-dashboard-a60c23b527f7)
-  * Result: [https://datastudio.google.com/reporting/c7806832-8ba6-4250-9c27-8dab1238247b/page/6zXD](https://datastudio.google.com/reporting/c7806832-8ba6-4250-9c27-8dab1238247b/page/6zXD)
-* Creating subgraphs: 
-  * [https://theethernaut.substack.com/p/creating-a-dark-side-subgraph](https://theethernaut.substack.com/p/creating-a-dark-side-subgraph)
-* [https://theethernaut.substack.com/p/developer-superpowers-with-thegraph](https://theethernaut.substack.com/p/developer-superpowers-with-thegraph)
-* Time travel queries: [https://blocklytics.org/blog/ethereum-blocks-subgraph-made-for-time-travel/](https://blocklytics.org/blog/ethereum-blocks-subgraph-made-for-time-travel/)
-* Date strings in AssemblyScript: [https://medium.com/blockrocket/how-to-create-date-strings-using-assemblyscript-in-the-graph-f7871f48e92d](https://medium.com/blockrocket/how-to-create-date-strings-using-assemblyscript-in-the-graph-f7871f48e92d)
-* Scaffold-eth: [https://github.com/austintgriffith/scaffold-eth/tree/graph-dev](https://github.com/austintgriffith/scaffold-eth/tree/graph-dev)
-* Create-eth-app: [https://github.com/PaulRBerg/create-eth-app](https://github.com/PaulRBerg/create-eth-app)
+* [Subgraph Development, Part 1: Understanding and Aggregating Data](https://medium.com/protofire-blog/subgraph-development-part-1-understanding-and-aggregating-data-ef0c9a61063d)
+* [Subgraph Development, Part 2: Handling Arrays and Identifying Entities](https://medium.com/protofire-blog/subgraph-development-part-2-handling-arrays-and-identifying-entities-30d63d4b1dc6)
+* [How to create an Ethereum DeFi realtime Dashboard using Google Data Studio](https://towardsdatascience.com/how-to-create-a-ethereum-defi-realtime-dashboard-a60c23b527f7)
+  * [Result](https://datastudio.google.com/reporting/c7806832-8ba6-4250-9c27-8dab1238247b/page/6zXD)
+* [Creating subgraphs \(Creating a dark side subgraph\)](https://theethernaut.substack.com/p/creating-a-dark-side-subgraph)
+* [Developer Superpowers with The Graph](https://theethernaut.substack.com/p/developer-superpowers-with-thegraph)
+* [Time travel queries](https://blocklytics.org/blog/ethereum-blocks-subgraph-made-for-time-travel/)
+* [Date strings in AssemblyScript](https://medium.com/blockrocket/how-to-create-date-strings-using-assemblyscript-in-the-graph-f7871f48e92d)
+* [Scaffold-eth](https://github.com/austintgriffith/scaffold-eth/tree/graph-dev)
+* [Create-eth-app](https://github.com/PaulRBerg/create-eth-app)
 
 #### Workshops
 
