@@ -1,6 +1,6 @@
 ---
 description: >-
-  The Graph Codex is a community-driven knowledge base created by The Graph
+  The Graph Codex is a community-driven knowledge base kickstarted by The Graph
   Foundation to document and share community resources currently available for
   The Graph Protocol.
 ---
@@ -16,7 +16,7 @@ description: >-
 * [The Graph Jobs](https://thegraph.com/jobs/)
 * [Developer Documentation](https://thegraph.com/docs/)
 * [Subgraph Explorer](https://thegraph.com/explorer/)
-* [Apply for a Graph Grant](https://airtable.com/shreX09LazIhsg0bU) 
+* [Apply for a Graph Grant ](https://airtable.com/shrdfvnFvVch3IOVm)
 * [Everest](https://everest.link)
 * [Delegate GRT on the Network](https://network.thegraph.com/network)
 
@@ -41,69 +41,144 @@ description: >-
 
 ### Meetings
 
-* 
+* Protocol Townhalls [Calendar](https://calendar.google.com/calendar/u/0/embed?src=info@thegraph.foundation) \| [Video Playlist](https://www.youtube.com/watch?v=BoK18crhIB4&list=PLTqyKgxaGF3Tj_A6eqV8V_aQoRwd2oHa_) \| [Forum Thread](https://forum.thegraph.com/tag/graph-townhall)
+* NFT Community Calls [Calendar](https://calendar.google.com/calendar/u/0/embed?src=info@thegraph.foundation) \| [Video Playlist](https://www.youtube.com/watch?v=SMV3rpEwxFU&list=PLTqyKgxaGF3Qrf_spFvQe5cUYGUNEST6D)
+
 ### Upcoming Events
 
 * [Ecosystem Calendar](https://calendar.google.com/calendar/u/0/embed?src=info@thegraph.foundation)
 
-### Partnerships
-
 ### FAQs
+
+* [Indexing FAQs](https://thegraph.com/docs/network#faq)
+* [Subgraph FAQs](https://thegraph.com/docs/quick-start#faq)
 
 ### Glossary of Terms
 
+* _Work in progress_
+
+## Resources
+
+### Community Resources
+
+* [The Graph Academy](https://thegraph.academy/)
+
+### Community Tools and Dashboard
+
+* [Network Explorer](https://network.thegraph.com/)
+* [Subgraph Explorer](https://thegraph.com/explorer/)
+* [Graphscan by Ryabina](https://graphscan.io/)
+* [Graphlets by Staking Facilities](https://graphlets.io/)
+
+
+
 ## Basics
 
-### Onboarding Guides
+### **Indexer Documentation**
 
-* Indexer
-* Delegator
-* Curator
-* Subgraph Developer
+* [Official Indexing Guide \(Kubernetes\)](https://thegraph.com/docs/network#indexing)
+* [Docker Compose \(testnet\) by Stakesquid](https://github.com/StakeSquid/graphprotocol-testnet-docker)
+* [Docker Compose \(mainnet\) by Stakesquid](https://github.com/StakeSquid/graphprotocol-mainnet-docker)
+* [Hint and tips Wiki from Mission Control Testnet](https://github.com/graphprotocol/mission-control-indexer/wiki)
+* [Graph Software Version Guide](https://github.com/graphprotocol/indexer/blob/main/docs/networks.md)
+* Baremetal Guide \(Coming soon\)
 
-### Beginner Guides
+### **Delegator Documentation**
 
-### Tutorials
+* \*\*\*\*[https://thegraph.com/docs/network\#delegating](https://thegraph.com/docs/network#delegating)
+* [Official Network FAQ](https://docs.google.com/document/d/1h48y_hQWb3CXbwHytsP3Hli1fNMqaMsiaoJd1x31HCQ/edit?usp=sharing)
+* [https://thegraph.academy/delegators/delegator-resources/](https://thegraph.academy/delegators/delegator-resources/)
 
-Written Tutorials
+#### Delegator Guides
 
-Video Tutorials
+* [https://thegraphportal.com/how-to-delegate/](https://thegraphportal.com/how-to-delegate/)
+* [https://stakingfac.medium.com/the-graph-staking-guide-5ec1455f4783](https://stakingfac.medium.com/the-graph-staking-guide-5ec1455f4783)
+* [https://ryabina.medium.com/the-graph-network-launch-how-to-delegate-197bdbdba4f7](https://ryabina.medium.com/the-graph-network-launch-how-to-delegate-197bdbdba4f7)
+* [https://lizakripto.medium.com/step-by-step-guide-to-delegating-the-graph-tokens-86fec142eeda](https://lizakripto.medium.com/step-by-step-guide-to-delegating-the-graph-tokens-86fec142eeda)
+* [https://medium.com/stakemachine/thegraph-stake-or-delegate-1f17b9182404](https://medium.com/stakemachine/thegraph-stake-or-delegate-1f17b9182404)
+* [https://forum.thegraph.com/t/delegators-protocol-actions-faq/89](https://forum.thegraph.com/t/delegators-protocol-actions-faq/89)
 
-### In-depth analysis
+### Curator Documentation
 
-### The Graph Protocol
+* [https://forum.thegraph.com/c/network-participants/curators/37](https://forum.thegraph.com/c/network-participants/curators/37)
+* [https://forum.thegraph.com/t/this-month-in-curation-1/1655](https://forum.thegraph.com/t/this-month-in-curation-1/1655)
+* [https://forum.thegraph.com/t/this-month-in-curation-2/1899/2](https://forum.thegraph.com/t/this-month-in-curation-2/1899/2)
+
+### Subgraph Developer Documentation
+
+#### Github Orgs:
+
+* [GitHub](https://github.com/graphprotocol)
+
+#### Tools
+
+* Protofire Subgraph Toolkit: [https://github.com/protofire/subgraph-toolkit](https://github.com/protofire/subgraph-toolkit)
+* Gnosis Subgraphs Monitor: [https://github.com/gnosis/thegraph-subgraphs-monitor](https://github.com/gnosis/thegraph-subgraphs-monitor)
+* Synthetix Subgraph-results-pager: [https://github.com/justinjmoses/graph-results-pager](https://github.com/justinjmoses/graph-results-pager)
+* Utility to get paged results from The Graph endpoints - GraphProtocol-utils: [https://github.com/Amxx/graphprotocol-utils](https://github.com/Amxx/graphprotocol-utils)
+* mStable Subgraph Utilities: [https://github.com/mstable/mStable-subgraphs-monorepo/tree/master/packages/utils](https://github.com/mstable/mStable-subgraphs-monorepo/tree/master/packages/utils)
+* Dennison's Subgraph Health Check: [https://subgraphtools.com/](https://subgraphtools.com/)
+
+#### Documentation
+
+* [Developer Documentation](https://thegraph.com/docs/)
+
+#### Guides and Tutorials
+
+* [The Complete Guide to Full Stack Ethereum Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) by Nader Dabit
+
+#### Community videos:
+
+* Wildcards: [https://www.youtube.com/watch?v=\_4iipzOwq-U](https://www.youtube.com/watch?v=_4iipzOwq-U)
+* Aragon: [https://www.youtube.com/watch?v=JNqN3fek6FY](https://www.youtube.com/watch?v=JNqN3fek6FY)
+* PoolTogether workshop @ETHDenver: [https://www.youtube.com/watch?v=GqU\_-ffyz0Q&t=21143s](https://www.youtube.com/watch?v=GqU_-ffyz0Q&t=21143s)
+
+#### Community Articles: 
+
+* [https://medium.com/protofire-blog/subgraph-development-part-1-understanding-and-aggregating-data-ef0c9a61063d](https://medium.com/protofire-blog/subgraph-development-part-1-understanding-and-aggregating-data-ef0c9a61063d)
+* [https://medium.com/protofire-blog/subgraph-development-part-2-handling-arrays-and-identifying-entities-30d63d4b1dc6](https://medium.com/protofire-blog/subgraph-development-part-2-handling-arrays-and-identifying-entities-30d63d4b1dc6)
+* How to create an Ethereum DeFi realtime Dashboard using Google Data Studio: [https://towardsdatascience.com/how-to-create-a-ethereum-defi-realtime-dashboard-a60c23b527f7](https://towardsdatascience.com/how-to-create-a-ethereum-defi-realtime-dashboard-a60c23b527f7)
+  * Result: [https://datastudio.google.com/reporting/c7806832-8ba6-4250-9c27-8dab1238247b/page/6zXD](https://datastudio.google.com/reporting/c7806832-8ba6-4250-9c27-8dab1238247b/page/6zXD)
+* Creating subgraphs: 
+  * [https://theethernaut.substack.com/p/creating-a-dark-side-subgraph](https://theethernaut.substack.com/p/creating-a-dark-side-subgraph)
+* [https://theethernaut.substack.com/p/developer-superpowers-with-thegraph](https://theethernaut.substack.com/p/developer-superpowers-with-thegraph)
+* Time travel queries: [https://blocklytics.org/blog/ethereum-blocks-subgraph-made-for-time-travel/](https://blocklytics.org/blog/ethereum-blocks-subgraph-made-for-time-travel/)
+* Date strings in AssemblyScript: [https://medium.com/blockrocket/how-to-create-date-strings-using-assemblyscript-in-the-graph-f7871f48e92d](https://medium.com/blockrocket/how-to-create-date-strings-using-assemblyscript-in-the-graph-f7871f48e92d)
+* Scaffold-eth: [https://github.com/austintgriffith/scaffold-eth/tree/graph-dev](https://github.com/austintgriffith/scaffold-eth/tree/graph-dev)
+* Create-eth-app: [https://github.com/PaulRBerg/create-eth-app](https://github.com/PaulRBerg/create-eth-app)
+
+#### Workshops
+
+* [Scaling Ethereum 2021: Deploying Subgraphs on EVM Chains](https://www.youtube.com/watch?v=i8Jl8XvAz54)
+* [GR9 Gitcoin Hackathon 2021: Deep Dive on Uniswap & How it Uses The Graph](https://www.youtube.com/watch?v=74OVNPEo62M)
+* [NFTHack Hackathon 2021](https://www.youtube.com/watch?v=uFxqYQCQGk8)
+* [MarketMake Hackathon 2021: Building Subgraphs on The Graph](https://youtu.be/LsnUkPO_yUw)
+* [ETHOnline Hackathon 2020: Building Subgraphs on The Graph](https://youtu.be/coa0Vw47qNc)
+* [HackFS hackathon 2020: How to index and query Ethereum and IPFS data using The Graph](https://www.youtube.com/watch?v=e5OwjDao3MA)
+* [ETHWaterloo 2019: Indexing the New Economy with The Graph](https://www.youtube.com/watch?v=_BSOGh89iDs)
+* [ETHNew York 2019: Building Dapps that load fast on The Graph](https://www.youtube.com/watch?v=TNtdknynmxM)
 
 ## Governance
 
-### Governance Resources
-
-### Key votes \(passed votes\)
-
-### **Snapshot Voting**
-
-### **Council Voting**
-
 ### Important Forum Threads
 
-* Protocol Townhall Posts - [https://forum.thegraph.com/tag/graph-townhall](https://forum.thegraph.com/tag/graph-townhall)
-* Protocol Townhall Agenda - Central location To be created
-* Radicle Repo - [https://forum.thegraph.com/t/gip-0001-and-getting-started-with-gips-grps-grcs-etc/1722](https://forum.thegraph.com/t/gip-0001-and-getting-started-with-gips-grps-grcs-etc/1722)
-* The Graph Council Snapshot - [https://snapshot.org/\#/council.graphprotocol.eth](https://snapshot.org/#/council.graphprotocol.eth)
+* [Protocol Townhalls](https://forum.thegraph.com/tag/graph-townhall) 
+* [Radicle Repo](https://forum.thegraph.com/t/gip-0001-and-getting-started-with-gips-grps-grcs-etc/1722)
+* [The Graph Council Snapshot](https://snapshot.org/#/council.graphprotocol.eth) 
 * [Graph Council Meeting Notes](https://forum.thegraph.com/tag/graph-council)
 
-### Governance Call Presentations
+### Governance Town Hall Calls
 
-### Analytics
-
-### Meetings and Discussions
+* [Town Hall \#1](https://www.youtube.com/watch?v=BoK18crhIB4)
+* [Town Hall \#2](https://www.youtube.com/watch?v=N2x5CiHhNSw)
 
 ### Voting Basics
 
 #### Voter Onboarding
 
-#### Voting Dashboard
-
-#### Voting Setup Guides
+* [Voting on a Proposal via Snapshot](https://thegraph.academy/ecosystem/voting-on-snapshot/)
+* [Voting on a Proposal via Snapshot \[Video Tutorial\]](https://thegraph.academy/snapshot-voting-video-tutorial/)
+* [Voting Power on Snapshot](https://thegraph.academy/ecosystem/voting-power-on-snapshot/)
 
 ## GRT
 
@@ -114,10 +189,6 @@ Video Tutorials
 * [Coinbase Pro](https://pro.coinbase.com/trade/GRT-USD%20)
 * [Binance](https://www.binance.com/en/trade/GRT_USDT?layout=pro%20)
 * [Uniswap](https://info.uniswap.org/pair/0xDfa42Ba0130425b21a1568507B084CC246fb0C8F)
-
-## Milestones \| Achievements
-
-#### 2021
 
 ## Media Coverage
 
@@ -149,7 +220,7 @@ Video Tutorials
 22. The Graph’s Token Soars as a Bevy of Exchanges Add the Cryptocurrency - [Coindesk](https://www.coindesk.com/the-graphs-token-soars-as-a-bevy-of-exchanges-add-the-cryptocurrency) 
     1. [Coinbase Pro Adds Trading Support for Graph \(GRT\) Token](https://www.financemagnates.com/cryptocurrency/exchange/coinbase-pro-adds-trading-support-for-graph-grt-token/)
     2. [Kraken Listing](https://cryptobriefing.com/kraken-introduces-new-tokens-for-u-k-and-australia/) 
-    3. [Binane Day One Listing](https://www.binance.com/au/support/announcement/9a76f72a9a0843faa0859771f95eb8fc) 
+    3. [Binance Day One Listing](https://www.binance.com/au/support/announcement/9a76f72a9a0843faa0859771f95eb8fc) 
     4. [Coinbase Day One Listing ](https://blog.coinbase.com/the-graph-grt-is-now-available-on-coinbase-74d061b9a442)
     5. [Huobi Day One Listing ](https://huobiglobal.zendesk.com/hc/en-us/articles/900003934266-Huobi-Inno-Hub-Will-Launch-GRT-The-Graph-on-December-18th)
 23. [Blockchain Indexer ‘The Graph’ to Support Polkadot, Solana, Near, and Celo](https://www.coindesk.com/blockchain-data-indexer-the-graph-supports-polkadot-solana-nea-celo) - Coindesk
@@ -171,50 +242,27 @@ Video Tutorials
 
 #### Podcasts
 
-* [https://www.grtiq.com/podcast/](https://www.grtiq.com/podcast/)
+* [GRTiQ](https://www.grtiq.com/podcast/)
+* [https://www.grtiq.com/grtiq-podcast-03-tegan-kline/](https://www.grtiq.com/grtiq-podcast-03-tegan-kline/)
+* [https://www.realvision.com/shows/the-interview-crypto/videos/the-graph-google-for-the-blockchain/](https://www.realvision.com/shows/the-interview-crypto/videos/the-graph-google-for-the-blockchain/)
 
 #### Videos
 
-1. State Channels at Scale 2020: [https://www.youtube.com/watch?v=0jJT9TZxsQE](https://www.youtube.com/watch?v=0jJT9TZxsQE)
-2. Smart Contract Summit: Permissionless Participation in Global Decentralized Finance Panel[ https://youtu.be/G9Ob8cgjwMw](https://youtu.be/G9Ob8cgjwMw)  
-3. GBC Sessions:[ DeFi Risk, Regulation and Reputation](https://www.youtube.com/watch?reload=9&v=-BqexscnzQI) - The CFTC, The Graph, TD Ameritrade, and the former SEC Comissioner with Tegan Kline GBC Sessions: DeFi Risk, Regulation and Reputation[ https://www.youtube.com/watch?reload=9&v=-BqexscnzQI](https://www.youtube.com/watch?reload=9&v=-BqexscnzQI) 
-4. The Future of DeFi with Aave, Curve, FTX, Solana, and The Graph[ The Future of DeFi panel](https://www.youtube.com/watch?v=YQmaGiELNEE&ab_channel=Solana) with The Graph, AAVE, Curve, Solana, and FTX with Tegan Kline [ https://www.youtube.com/watch?v=YQmaGiELNEE&ab\_channel=Solana](https://www.youtube.com/watch?v=YQmaGiELNEE&ab_channel=Solana) 
-5. Crypto Fest 2020 - Tegan Kline -[Yield Farming Level Up - How to Earn GRT on The Graph Network](https://www.youtube.com/watch?v=tkKjdJ_pvKo&feature=youtu.be) with Tegan Kline[ https://www.youtube.com/watch?v=tkKjdJ\_pvKo](https://www.youtube.com/watch?v=tkKjdJ_pvKo) 
-6. Virtual Blockchain Conference: Launching a Blockchain Technology Company Fireside Chat - Eva + Tegan: [https://www.youtube.com/watch?v=fcDIYs74t3k&list=PLJAdDt-GVG6KhmIB6WUjG3j-safRQ8A2G&index=15&t=0s](https://www.youtube.com/watch?v=fcDIYs74t3k&list=PLJAdDt-GVG6KhmIB6WUjG3j-safRQ8A2G&index=15&t=0s)  
-7. Tegan was invited to speak at CoinDesk’s Invest: Ethereum Economy on[ Measuring the DeFi Economy via The Graph - TVL and Beyond](https://docs.google.com/presentation/d/1ncHo-0v3d1Rc04c-kcTqNi9WK6D-bYzjWoDHnvEJW3M/edit#slide=id.ga1cc0395a3_0_0) 
-8. Kraken Discusses The Graph Protocol's New Decentralized Network With Tegan Kline[ https://www.youtube.com/watch?v=MZmkc3770YM](https://www.youtube.com/watch?v=MZmkc3770YM) [ https://www.pscp.tv/krakenfx/1RDxlPoQQadxL](https://www.pscp.tv/krakenfx/1RDxlPoQQadxL) 
-   1. [https://www.youtube.com/watch?v=MZmkc3770YM](https://www.youtube.com/watch?v=MZmkc3770YM)
-   2. [https://www.facebook.com/KrakenFX/videos/the-graph/418449102754386/?\_\_so\_\_=permalink&\_\_rv\_\_=related\_videos](https://www.facebook.com/KrakenFX/videos/the-graph/418449102754386/?__so__=permalink&__rv__=related_videos)
-9. GBC “DeFi Risk, Regulation and Reputation” recording -[ https://www.youtube.com/watch?v=-BqexscnzQI&trk=organization-update-content\_share-embed-video\_share-article\_title](https://www.youtube.com/watch?v=-BqexscnzQI&trk=organization-update-content_share-embed-video_share-article_title)
-10. Aligning Ecosystem Incentives for Sustainable Outcomes:[ https://invidious.zapashcanon.fr/watch?v=0-AJyExubQc](https://invidious.zapashcanon.fr/watch?v=0-AJyExubQc) 
-11. SALT: Meltem Demirors & Tegan Kline: Has Bitcoin Won Over Institutional Investors? \| SALT Talks[ \#177](https://www.youtube.com/hashtag/177) :[ https://www.youtube.com/watch?v=ePSbLZ25Lt8](https://www.youtube.com/watch?v=ePSbLZ25Lt8)
-12. BUIDL with The Graph Protocol at ETHDenver 2021:[ https://medium.com/ethdenver/buidl-with-the-graph-protocol-at-ethdenver-2021-83a6b110179e](https://medium.com/ethdenver/buidl-with-the-graph-protocol-at-ethdenver-2021-83a6b110179e) 
-13. The Expat Woman:[ https://www.facebook.com/TheExpatWoman/videos/so-honored-to-have-these-women-leaders-and-experts-in-blockchain-and-crypto-on-o/668202306921544/](https://www.facebook.com/TheExpatWoman/videos/so-honored-to-have-these-women-leaders-and-experts-in-blockchain-and-crypto-on-o/668202306921544/)  
-14. Community building Mark Smargon / Simona Pop / Tegan Kline at Stronger Together Summit:[ https://www.israelfiga.net/2020/12/15/community-building-mark-smargon-simona-pop-tegan-kline-at-stronger-together-summit/](https://www.israelfiga.net/2020/12/15/community-building-mark-smargon-simona-pop-tegan-kline-at-stronger-together-summit/) 
-15. Jannis at Celo’s event[ https://youtu.be/sJWcww0xLO8](https://youtu.be/sJWcww0xLO8)
-
-## Developer Resources
-
-#### Github Orgs:
-
-* [GitHub](https://github.com/graphprotocol)‪
-
-#### Documentation
-
-* [Developer Documentation](https://thegraph.com/docs/)
-
-#### Guides and Tutorials
-
-* [The Complete Guide to Full Stack Ethereum Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) by Nader Dabit
-
-#### Workshops
-
-* NFTHack Hackathon 2021: [https://www.youtube.com/watch?v=uFxqYQCQGk8](https://www.youtube.com/watch?v=uFxqYQCQGk8)
-* MarketMake Hackathon 2021: Building Subgraphs on The Graph: [https://youtu.be/LsnUkPO\_yUw](https://youtu.be/LsnUkPO_yUw)
-* ETHOnline Hackathon 2020: Building Subgraphs on The Graph: [https://youtu.be/coa0Vw47qNc](https://youtu.be/coa0Vw47qNc)
-* HackFS hackathon 2020: How to index and query Ethereum and IPFS data using The Graph: [https://www.youtube.com/watch?v=e5OwjDao3MA](https://www.youtube.com/watch?v=e5OwjDao3MA)
-* ETHWaterloo 2019: Indexing the New Economy with The Graph: [https://www.youtube.com/watch?v=\_BSOGh89iDs](https://www.youtube.com/watch?v=_BSOGh89iDs)
-* ETHNew York 2019: Building Dapps that load fast on The Graph: [https://www.youtube.com/watch?v=TNtdknynmxM](https://www.youtube.com/watch?v=TNtdknynmxM)
+1. [State Channels at Scale 2020](https://www.youtube.com/watch?v=0jJT9TZxsQE)
+2. [Smart Contract Summit: Permissionless Participation in Global Decentralized Finance Panel](https://youtu.be/G9Ob8cgjwMw)
+3. GBC Sessions:[ DeFi Risk, Regulation and Reputation](https://www.youtube.com/watch?reload=9&v=-BqexscnzQI) - The CFTC, The Graph, TD Ameritrade, and the former SEC Comissioner with Tegan Kline GBC Sessions: DeFi Risk, Regulation and Reputation
+4. The Future of DeFi with Aave, Curve, FTX, Solana, and The Graph[ The Future of DeFi panel](https://www.youtube.com/watch?v=YQmaGiELNEE&ab_channel=Solana) with The Graph, AAVE, Curve, Solana, and FTX with Tegan Kline
+5. Crypto Fest 2020 - Tegan Kline - [Yield Farming Level Up - How to Earn GRT on The Graph Network](https://www.youtube.com/watch?v=tkKjdJ_pvKo&feature=youtu.be) with Tegan Kline
+6. [Virtual Blockchain Conference: Launching a Blockchain Technology Company Fireside Chat](https://www.youtube.com/watch?v=fcDIYs74t3k)
+7. CoinDesk’s Invest: Ethereum Economy on[ Measuring the DeFi Economy via The Graph - TVL and Beyond](https://docs.google.com/presentation/d/1ncHo-0v3d1Rc04c-kcTqNi9WK6D-bYzjWoDHnvEJW3M/edit#slide=id.ga1cc0395a3_0_0) 
+8. [Kraken Discusses The Graph Protocol's New Decentralized Network With Tegan Kline](https://www.youtube.com/watch?v=MZmkc3770YM)
+9. [GBC “DeFi Risk, Regulation and Reputation”](https://www.youtube.com/watch?v=-BqexscnzQI&trk=organization-update-content_share-embed-video_share-article_title)
+10. [Aligning Ecosystem Incentives for Sustainable Outcomes](https://invidious.zapashcanon.fr/watch?v=0-AJyExubQc)
+11. [SALT: Meltem Demirors & Tegan Kline: Has Bitcoin Won Over Institutional Investors?](https://www.youtube.com/watch?v=ePSbLZ25Lt8)
+12. [BUIDL with The Graph Protocol at ETHDenver 2021](https://medium.com/ethdenver/buidl-with-the-graph-protocol-at-ethdenver-2021-83a6b110179e%20)
+13. [The Expat Woman](https://www.facebook.com/TheExpatWoman/videos/so-honored-to-have-these-women-leaders-and-experts-in-blockchain-and-crypto-on-o/668202306921544/%20%20)
+14. [Community building Mark Smargon / Simona Pop / Tegan Kline at Stronger Together Summit](https://www.israelfiga.net/2020/12/15/community-building-mark-smargon-simona-pop-tegan-kline-at-stronger-together-summit/%20)
+15. [Jannis at Celo’s](https://youtu.be/sJWcww0xLO8) Kuneco Community All-Hands
 
 ## Translated Resources
 
