@@ -76,11 +76,12 @@ description: >-
 
 ### **Indexer Documentation**
 
-**Kubernetes**
-
-**Docker**
-
-* \*\*\*\*
+* Official Indexing Guide \(Kubernetes\) - [https://thegraph.com/docs/network\#indexing](https://thegraph.com/docs/network#indexing)
+* Docker Compose \(testnet\) by Stakesquid - [https://github.com/StakeSquid/graphprotocol-testnet-docker](https://github.com/StakeSquid/graphprotocol-testnet-docker)
+* Docker Compose \(mainnet\) by Stakesquid - [https://github.com/StakeSquid/graphprotocol-mainnet-docker](https://github.com/StakeSquid/graphprotocol-mainnet-docker)
+* Hint and tips Wiki from Mission Control Testnet - [https://github.com/graphprotocol/mission-control-indexer/wiki](https://github.com/graphprotocol/mission-control-indexer/wiki)
+* Graph Software Version Guide - [https://github.com/graphprotocol/indexer/blob/main/docs/networks.md](https://github.com/graphprotocol/indexer/blob/main/docs/networks.md)
+* Baremetal Guide \(Coming soon\)
 
 ### **Delegator Documentation**
 
@@ -97,13 +98,15 @@ description: >-
 * [https://medium.com/stakemachine/thegraph-stake-or-delegate-1f17b9182404](https://medium.com/stakemachine/thegraph-stake-or-delegate-1f17b9182404)
 * [https://forum.thegraph.com/t/delegators-protocol-actions-faq/89](https://forum.thegraph.com/t/delegators-protocol-actions-faq/89)
 
-\*\*\*\*
-
 ### Curator Documentation
 
 
 
 ### Subgraph Developer Documentation
+
+#### Github Orgs:
+
+* [GitHub](https://github.com/graphprotocol)
 
 #### Tools
 
@@ -114,13 +117,21 @@ description: >-
 * mStable Subgraph Utilities: [https://github.com/mstable/mStable-subgraphs-monorepo/tree/master/packages/utils](https://github.com/mstable/mStable-subgraphs-monorepo/tree/master/packages/utils)
 * Dennison's Subgraph Health Check: [https://subgraphtools.com/](https://subgraphtools.com/)
 
-Community videos:
+#### Documentation
+
+* [Developer Documentation](https://thegraph.com/docs/)
+
+#### Guides and Tutorials
+
+* [The Complete Guide to Full Stack Ethereum Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) by Nader Dabit
+
+#### Community videos:
 
 * Wildcards: [https://www.youtube.com/watch?v=\_4iipzOwq-U](https://www.youtube.com/watch?v=_4iipzOwq-U)
 * Aragon: [https://www.youtube.com/watch?v=JNqN3fek6FY](https://www.youtube.com/watch?v=JNqN3fek6FY)
 * PoolTogether workshop @ETHDenver: [https://www.youtube.com/watch?v=GqU\_-ffyz0Q&t=21143s](https://www.youtube.com/watch?v=GqU_-ffyz0Q&t=21143s)
 
-Community Articles: 
+#### Community Articles: 
 
 * [https://medium.com/protofire-blog/subgraph-development-part-1-understanding-and-aggregating-data-ef0c9a61063d](https://medium.com/protofire-blog/subgraph-development-part-1-understanding-and-aggregating-data-ef0c9a61063d)
 * [https://medium.com/protofire-blog/subgraph-development-part-2-handling-arrays-and-identifying-entities-30d63d4b1dc6](https://medium.com/protofire-blog/subgraph-development-part-2-handling-arrays-and-identifying-entities-30d63d4b1dc6)
@@ -134,23 +145,9 @@ Community Articles:
 * Scaffold-eth: [https://github.com/austintgriffith/scaffold-eth/tree/graph-dev](https://github.com/austintgriffith/scaffold-eth/tree/graph-dev)
 * Create-eth-app: [https://github.com/PaulRBerg/create-eth-app](https://github.com/PaulRBerg/create-eth-app)
 
-## Developer Resources
-
-#### Github Orgs:
-
-* [GitHub](https://github.com/graphprotocol)‪
-
-#### Documentation
-
-* [Developer Documentation](https://thegraph.com/docs/)
-
-#### Guides and Tutorials
-
-* [The Complete Guide to Full Stack Ethereum Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) by Nader Dabit
-
 #### Workshops
 
-* Scaling Ethereum 2021: Deploying Subgraphs on EVM Chains
+* [Scaling Ethereum 2021: Deploying Subgraphs on EVM Chains](https://www.youtube.com/watch?v=i8Jl8XvAz54)
 * [GR9 Gitcoin Hackathon 2021: Deep Dive on Uniswap & How it Uses The Graph](https://www.youtube.com/watch?v=74OVNPEo62M)
 * [NFTHack Hackathon 2021](https://www.youtube.com/watch?v=uFxqYQCQGk8)
 * [MarketMake Hackathon 2021: Building Subgraphs on The Graph](https://youtu.be/LsnUkPO_yUw)
@@ -159,27 +156,7 @@ Community Articles:
 * [ETHWaterloo 2019: Indexing the New Economy with The Graph](https://www.youtube.com/watch?v=_BSOGh89iDs)
 * [ETHNew York 2019: Building Dapps that load fast on The Graph](https://www.youtube.com/watch?v=TNtdknynmxM)
 
-### Beginner Guides
-
-### Tutorials
-
-Written Tutorials
-
-Video Tutorials
-
-### In-depth analysis
-
-### The Graph Protocol
-
 ## Governance
-
-### Governance Resources
-
-### Key votes \(passed votes\)
-
-### **Snapshot Voting**
-
-### **Council Voting**
 
 ### Important Forum Threads
 
@@ -193,9 +170,6 @@ Video Tutorials
 * [Town Hall \#1](https://www.youtube.com/watch?v=BoK18crhIB4)
 * [Town Hall \#2](https://www.youtube.com/watch?v=N2x5CiHhNSw)
 
-### Meetings and Discussions
-
-* 
 ### Voting Basics
 
 #### Voter Onboarding
@@ -267,6 +241,8 @@ Video Tutorials
 #### Podcasts
 
 * [GRTiQ](https://www.grtiq.com/podcast/)
+* [https://www.grtiq.com/grtiq-podcast-03-tegan-kline/](https://www.grtiq.com/grtiq-podcast-03-tegan-kline/)
+* [https://www.realvision.com/shows/the-interview-crypto/videos/the-graph-google-for-the-blockchain/](https://www.realvision.com/shows/the-interview-crypto/videos/the-graph-google-for-the-blockchain/)
 
 #### Videos
 
