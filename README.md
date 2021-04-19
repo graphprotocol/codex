@@ -76,11 +76,11 @@ description: >-
 
 ### **Indexer Documentation**
 
-* Official Indexing Guide \(Kubernetes\) - [https://thegraph.com/docs/network\#indexing](https://thegraph.com/docs/network#indexing)
-* Docker Compose \(testnet\) by Stakesquid - [https://github.com/StakeSquid/graphprotocol-testnet-docker](https://github.com/StakeSquid/graphprotocol-testnet-docker)
-* Docker Compose \(mainnet\) by Stakesquid - [https://github.com/StakeSquid/graphprotocol-mainnet-docker](https://github.com/StakeSquid/graphprotocol-mainnet-docker)
-* Hint and tips Wiki from Mission Control Testnet - [https://github.com/graphprotocol/mission-control-indexer/wiki](https://github.com/graphprotocol/mission-control-indexer/wiki)
-* Graph Software Version Guide - [https://github.com/graphprotocol/indexer/blob/main/docs/networks.md](https://github.com/graphprotocol/indexer/blob/main/docs/networks.md)
+* [Official Indexing Guide \(Kubernetes\)](https://thegraph.com/docs/network#indexing)
+* [Docker Compose \(testnet\) by Stakesquid](https://github.com/StakeSquid/graphprotocol-testnet-docker)
+* [Docker Compose \(mainnet\) by Stakesquid](https://github.com/StakeSquid/graphprotocol-mainnet-docker)
+* [Hint and tips Wiki from Mission Control Testnet](https://github.com/graphprotocol/mission-control-indexer/wiki)
+* [Graph Software Version Guide](https://github.com/graphprotocol/indexer/blob/main/docs/networks.md)
 * Baremetal Guide \(Coming soon\)
 
 ### **Delegator Documentation**
@@ -100,7 +100,9 @@ description: >-
 
 ### Curator Documentation
 
-
+* [https://forum.thegraph.com/c/network-participants/curators/37](https://forum.thegraph.com/c/network-participants/curators/37)
+* [https://forum.thegraph.com/t/this-month-in-curation-1/1655](https://forum.thegraph.com/t/this-month-in-curation-1/1655)
+* [https://forum.thegraph.com/t/this-month-in-curation-2/1899/2](https://forum.thegraph.com/t/this-month-in-curation-2/1899/2)
 
 ### Subgraph Developer Documentation
 
@@ -218,7 +220,7 @@ description: >-
 22. The Graph’s Token Soars as a Bevy of Exchanges Add the Cryptocurrency - [Coindesk](https://www.coindesk.com/the-graphs-token-soars-as-a-bevy-of-exchanges-add-the-cryptocurrency) 
     1. [Coinbase Pro Adds Trading Support for Graph \(GRT\) Token](https://www.financemagnates.com/cryptocurrency/exchange/coinbase-pro-adds-trading-support-for-graph-grt-token/)
     2. [Kraken Listing](https://cryptobriefing.com/kraken-introduces-new-tokens-for-u-k-and-australia/) 
-    3. [Binane Day One Listing](https://www.binance.com/au/support/announcement/9a76f72a9a0843faa0859771f95eb8fc) 
+    3. [Binance Day One Listing](https://www.binance.com/au/support/announcement/9a76f72a9a0843faa0859771f95eb8fc) 
     4. [Coinbase Day One Listing ](https://blog.coinbase.com/the-graph-grt-is-now-available-on-coinbase-74d061b9a442)
     5. [Huobi Day One Listing ](https://huobiglobal.zendesk.com/hc/en-us/articles/900003934266-Huobi-Inno-Hub-Will-Launch-GRT-The-Graph-on-December-18th)
 23. [Blockchain Indexer ‘The Graph’ to Support Polkadot, Solana, Near, and Celo](https://www.coindesk.com/blockchain-data-indexer-the-graph-supports-polkadot-solana-nea-celo) - Coindesk
