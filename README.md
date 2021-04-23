@@ -69,6 +69,7 @@ description: >-
 * [Subgraph Explorer](https://thegraph.com/explorer/)
 * [Graphscan by Ryabina](https://graphscan.io/)
 * [Graphlets by Staking Facilities](https://graphlets.io/)
+* [Graph Dashboard](https://thegraph.stake-machine.com/d/-3BUUtbMz/thegraph-overview?orgId=1&refresh=5m) by Stake-machine
 
 
 
@@ -126,6 +127,7 @@ description: >-
 #### Guides and Tutorials
 
 * [The Complete Guide to Full Stack Ethereum Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) by Nader Dabit
+* [Scaffold-eth](https://github.com/austintgriffith/scaffold-eth) by Austin Griffith
 
 #### Community videos:
 
