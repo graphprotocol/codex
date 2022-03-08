@@ -5,7 +5,7 @@
 
 ## Getting Started
 
-* [Properties](1-getting-started/properties.md)
+* [Websites](1-getting-started/websites.md)
 
 
 
