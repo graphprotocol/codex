@@ -1,3 +1,5 @@
+# Properties
+
 * [The Graph Website](https://thegraph.com/)
 * [The Graph Foundation Website](https://thegraph.foundation)
 * [The Graph Jobs](https://thegraph.com/jobs/)
