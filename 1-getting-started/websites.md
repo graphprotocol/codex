@@ -3,7 +3,10 @@
 ## Properties
 
 #### [The Graph](https://thegraph.com/)
-#### [Everest](https://everest.link)
+#### [Network Explorer](https://thegraph.com/explorer/)
+#### [Hosted Service](https://thegraph.com/hosted-service/)
+#### [Subgraph Studio](https://thegraph.com/studio/)
+#### [Everest](https://everest.link/)
 
 
 ## Governance
