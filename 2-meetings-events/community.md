@@ -20,19 +20,7 @@ https://www.youtube.com/playlist?list=PLTqyKgxaGF3Qd6NY9S5NK37Ct15caLbQY
 
 #### Community Talk #1
 
-https://www.youtube.com/watch?v=6C0jUXllx18&list=PLTqyKgxaGF3Qd6NY9S5NK37Ct15caLbQY&index=1
-
-
-
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/embed/watch?v=6C0jUXllx18&list=PLTqyKgxaGF3Qd6NY9S5NK37Ct15caLbQY&index=1"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+https://www.youtube.com/embed/watch?v=6C0jUXllx18&list=PLTqyKgxaGF3Qd6NY9S5NK37Ct15caLbQY&index=1
 
 
 
