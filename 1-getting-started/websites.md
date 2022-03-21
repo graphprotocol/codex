@@ -73,7 +73,7 @@
 
 #### [Graph Grants Twitter](https://twitter.com/graphgrants)
 
-{% embed url="https://twitter.com/graphgrants" %}
+<a href="https://twitter.com/graphgrants?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @graphgrants</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### [Telegram](https://t.me/GraphProtocol)
 
@@ -91,21 +91,21 @@
 
 {% embed url="https://thegraph.com/#newsletter" %}
 
-#### [LinkedIn](https://www.linkedin.com/company/thegraph/)
+#### [LinkedIn](https:/linkedin.com/company/thegraph/)
 
-{% embed url="https://www.linkedin.com/company/thegraph/" %}
+{% embed url="https://linkedin.com/company/thegraph/" %}
 
-#### [Youtube](https://www.youtube.com/GraphProtocol)
+#### [Youtube](https://youtube.com/GraphProtocol)
 
-{% embed url="https://www.youtube.com/GraphProtocol" %}
+{% embed url="https://youtube.com/GraphProtocol" %}
 
-#### [Reddit](https://www.reddit.com/r/thegraph/)
+#### [Reddit](https://reddit.com/r/thegraph/)
 
-{% embed url="https://www.reddit.com/r/thegraph/" %}
+{% embed url="https://reddit.com/r/thegraph/" %}
 
-#### [Facebook](https://www.facebook.com/TheGraphProtocol/)
+#### [Facebook](https://facebook.com/TheGraphProtocol/)
 
-{% embed url="https://www.facebook.com/TheGraphProtocol/" %}
+{% embed url="https://facebook.com/TheGraphProtocol/" %}
 
 
 ## Contact
