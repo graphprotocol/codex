@@ -1,8 +1,8 @@
-# Official Websites & Channels
+# Websites
 
 ## Properties
 
-#### [The Graph](https://thegraph.com/)
+#### [The Graph](https://thegraph.com)
 
 {% embed url="https://thegraph.com" %}
 
@@ -18,10 +18,9 @@
 
 {% embed url="https://thegraph.com/studio/" %}
 
-#### [Everest](https://everest.link/)
+#### [Everest](https://everest.link)
 
 {% embed url="https://everest.link/" %}
-
 
 ## Governance
 
@@ -29,29 +28,27 @@
 
 {% embed url="https://thegraph.foundation" %}
 
-
 ## Core Developers
 
-#### [Edge & Node](https://edgeandnode.com/)
+#### [Edge & Node](https://edgeandnode.com)
 
 {% embed url="https://edgeandnode.com/" %}
 
-#### [StreamingFast](https://streamingfast.io/)
+#### [StreamingFast](https://streamingfast.io)
 
 {% embed url="https://streamingfast.io/" %}
 
-#### [Figment](https://www.figment.io/)
+#### [Figment](https://www.figment.io)
 
 {% embed url="https://www.figment.io/" %}
 
-#### [Semiotic AI](https://www.semiotic.ai/)
+#### [Semiotic AI](https://www.semiotic.ai)
 
 {% embed url="https://www.semiotic.ai/" %}
 
-#### [The Guild](https://www.the-guild.dev/)
+#### [The Guild](https://www.the-guild.dev)
 
 {% embed url="https://www.the-guild.dev/" %}
-
 
 ## Channels
 
@@ -59,7 +56,7 @@
 
 {% embed url="https://thegraph.com/blog/" %}
 
-#### [Forum](http://forum.thegraph.com/)
+#### [Forum](http://forum.thegraph.com)
 
 {% embed url="http://forum.thegraph.com/" %}
 
@@ -69,11 +66,11 @@
 
 #### [Graph Protocol Twitter](https://twitter.com/graphprotocol)
 
-
+{% embed url="https://twitter.com/intent/user?screen_name=graphprotocol" %}
 
 #### [Graph Grants Twitter](https://twitter.com/graphgrants)
 
-
+{% embed url="https://twitter.com/intent/user?screen_name=graphprotocol" %}
 
 #### [Telegram](https://t.me/GraphProtocol)
 
@@ -91,7 +88,7 @@
 
 {% embed url="https://thegraph.com/#newsletter" %}
 
-#### [LinkedIn](https:/linkedin.com/company/thegraph/)
+#### [LinkedIn](https://https/linkedin.com/company/thegraph/)
 
 {% embed url="https://linkedin.com/company/thegraph/" %}
 
@@ -106,7 +103,6 @@
 #### [Facebook](https://facebook.com/TheGraphProtocol/)
 
 {% embed url="https://facebook.com/TheGraphProtocol/" %}
-
 
 ## Contact
 
