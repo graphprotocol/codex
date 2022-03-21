@@ -3,6 +3,9 @@
 ## Properties
 
 #### [The Graph](https://thegraph.com/)
+
+{% embed url="https://thegraph.com" %}
+
 #### [Network Explorer](https://thegraph.com/explorer/)
 #### [Hosted Service](https://thegraph.com/hosted-service/)
 #### [Subgraph Studio](https://thegraph.com/studio/)
