@@ -3,7 +3,7 @@
 ## Calendar
 
 To view all the upcoming events, make sure you subscribe to the Graph Foundation calendar
-https://calendar.google.com/calendar/u/0/embed?src=info@thegraph.foundation
+{% embed url="https://calendar.google.com/calendar/u/0/embed?src=info@thegraph.foundation" %}
 
 ## Playlist
 
