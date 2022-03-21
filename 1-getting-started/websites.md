@@ -68,7 +68,7 @@
 
 {% embed url="m.twitter.com/graphprotocol" %}
 
-{% embed url="https://twitter.com/intent/user?screen_name=graphprotocol" %}
+
 
 #### [Graph Grants Twitter](https://twitter.com/graphgrants)
 
