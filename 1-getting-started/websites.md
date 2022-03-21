@@ -69,7 +69,7 @@
 
 #### [Graph Protocol Twitter](https://twitter.com/graphprotocol)
 
-{% embed url="https://shorturl.at/gBJRX" %}
+{% embed url="<a class="twitter-timeline" data-height="300" href="https://twitter.com/graphprotocol?ref_src=twsrc%5Etfw">Tweets by graphprotocol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>" %}
 
 #### [Graph Grants Twitter](https://twitter.com/graphgrants)
 
