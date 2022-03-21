@@ -24,6 +24,10 @@ https://www.youtube.com/embed/watch?v=6C0jUXllx18&list=PLTqyKgxaGF3Qd6NY9S5NK37C
 
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6C0jUXllx18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 
 #### Community Talk #2
 
