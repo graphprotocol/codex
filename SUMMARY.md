@@ -14,9 +14,12 @@
 * [Community Talks](2-meetings-events/community-talks.md)
 * [Indexer Office Hours](2-meetings-events/indexer-office-hours.md)
 * [NFT Community Calls](2-meetings-events/nft-community-calls.md)
-* [Developer Highlights](2-meetings-events/developer-highlights.md)
-* [Protocol Workshops](2-meetings-events/protocol-workshops.md)
-* [Developer Guides](2-meetings-events/developer-guides.md)
 
 
 
+## Workshops
+
+* [Developer Highlights](3-workshops/developer-highlights.md)
+* [Protocol Workshops](3-workshops/protocol-workshops.md)
+* [Developer Guides](3-workshops/developer-guides.md)
+* 

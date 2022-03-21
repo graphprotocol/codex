@@ -62,7 +62,7 @@
 
 #### [Discord](https://thegraph.com/discord)
 
-{% embed url="https://thegraph.com/discord" %}
+{% embed url="https://discord.gg/graphprotocol" %}
 
 #### [Graph Protocol Twitter](https://twitter.com/graphprotocol)
 
