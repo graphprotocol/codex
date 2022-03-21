@@ -10,7 +10,9 @@
 
 ## Meetings and Events
 
-* [Core Developers Meetings](2-meetings-events/coredev.md)
-* [Community Talks](2-meetings-events/community.md)
-* [Indexer Office Hours](2-meetings-events/ioh.md)
+* [Core Developers Calls](2-meetings-events/core-dev-calls.md)
+* [Community Talks](2-meetings-events/community-talks.md)
+* [Indexer Office Hours](2-meetings-events/indexer-office-hours.md)
+* [NFT Community Calls](2-meetings-events/nft-community-calls.md)
+* 
 
