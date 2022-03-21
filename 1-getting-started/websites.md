@@ -69,11 +69,11 @@
 
 #### [Graph Protocol Twitter](https://twitter.com/graphprotocol)
 
-<a class="twitter-timeline" data-height="300" href="https://twitter.com/graphprotocol?ref_src=twsrc%5Etfw">Tweets by graphprotocol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{% embed url="https://shorturl.at/gBJRX" %}
 
 #### [Graph Grants Twitter](https://twitter.com/graphgrants)
 
-<a class="twitter-timeline" data-height="300" href="https://twitter.com/graphgrants?ref_src=twsrc%5Etfw">Tweets by graphgrants</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{% embed url="" %}
 
 #### [Telegram](https://t.me/GraphProtocol)
 
