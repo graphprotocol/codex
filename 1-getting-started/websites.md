@@ -67,7 +67,7 @@
 #### [Graph Protocol Twitter](https://twitter.com/graphprotocol)
 
 {% embed url="https://shr.link/pfir7" %}
-{% embed url="https://tinyurl.com/39kjdkk8" %}
+{% embed url="https://bit.ly/3qsD5QV" %}
 
 #### [Graph Grants Twitter](https://twitter.com/graphgrants)
 
