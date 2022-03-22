@@ -68,13 +68,6 @@
 
 {% embed url="https://shr.link/pfir7" %}
 
-<h3>Share this image on your site:</h3>
-<textarea readonly onclick='this.focus();this.select()' style="margin:0px; padding: 5px; max-width: 100%; height: 100px; width: 720px;"><img src="https://pbs.twimg.com/profile_images/1341100720943054848/C4RKAej-_400x400.jpg" width="100%" alt="Follow The Graph on Twitter">
-<a href="https://twitter.com/graphprotocol">
-</a><p><strong>Follow The Graph on Twitter</strong>, courtesy of <a href="https://twitter.com/graphprotocol">Graph Protocol</a></p></textarea>
-
-
-
 #### [Graph Grants Twitter](https://twitter.com/graphgrants)
 
 {% embed url="https://twitter.com/intent/user?screen_name=graphprotocol" %}
