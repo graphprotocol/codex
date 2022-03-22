@@ -70,7 +70,7 @@
 
 #### [Graph Grants Twitter](https://twitter.com/graphgrants)
 
-{% embed url="https://twitter.com/intent/user?screen_name=graphprotocol" %}
+{% embed url="https://shr.link/3o2fu" %}
 
 #### [Telegram](https://t.me/GraphProtocol)
 
