@@ -23,3 +23,9 @@
 * [Protocol Workshops](3-workshops/protocol-workshops.md)
 * [Developer Guides](3-workshops/developer-guides.md)
 * [Subgraph Testing (Matchstick)](3-workshops/subgraph-testing-matchstick.md)
+
+
+## Ecosystem Updates
+* [Council Meeting Notes](4-ecosystem-updates/council-meeting-notes.md)
+* [This Month in Indexing](4-ecosystem-updates/this-month-in-indexing.md)
+* [This Month in Curation](4-ecosystem-updates/this-month-in-curation.md)
