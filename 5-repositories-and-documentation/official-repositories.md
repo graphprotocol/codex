@@ -31,6 +31,11 @@
 
 ## StreamingFast Organization
 
+### StreamingFast Firehose
+
+{% embed url="https://github.com/streamingfast/firehose" %}
+
+
 ### StreamingFast GETH
 
 {% embed url="https://github.com/streamingfast/go-ethereum" %}
