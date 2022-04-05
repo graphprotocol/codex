@@ -29,3 +29,7 @@
 * [Council Meeting Notes](4-ecosystem-updates/council-meeting-notes.md)
 * [This Month in Indexing](4-ecosystem-updates/this-month-in-indexing.md)
 * [This Month in Curation](4-ecosystem-updates/this-month-in-curation.md)
+
+
+## Repositories and Documentation
+* [Official Repositories](5-repositories-and-documentation/official-repositories.md)
