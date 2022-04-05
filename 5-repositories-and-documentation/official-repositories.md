@@ -31,6 +31,9 @@
 
 ## StreamingFast Organization
 
+{% embed url="https://github.com/orgs/streamingfast/repositories" %}
+
+
 ### StreamingFast Firehose
 
 {% embed url="https://github.com/streamingfast/firehose" %}
