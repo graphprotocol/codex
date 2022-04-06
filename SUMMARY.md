@@ -33,8 +33,5 @@
 
 ## Repositories and Documentation
 * [Official Repositories](5-repositories-and-documentation/official-repositories.md)
-* [Official Documentation](5-repositories-and-documentation/official-documentation.md)
-	* [About](5-repositories-and-documentation/about)
-
 * [Official Documentation](5-repositories-and-documentation/official-documentation/)
 	* [Introduction](5-repositories-and-documentation/official-documentation/about/introduction.md)
