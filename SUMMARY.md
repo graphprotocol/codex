@@ -37,4 +37,4 @@
 	* [About](5-repositories-and-documentation/about)
 
 * [Official Documentation](5-repositories-and-documentation/official-documentation/)
-	* [About](5-repositories-and-documentation/official-documentation/about/)
+	* [Introduction](5-repositories-and-documentation/official-documentation/about/introduction.md)
