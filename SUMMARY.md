@@ -51,6 +51,7 @@
 	* [Indexer](5-repositories-and-documentation/official-documentation/indexing.md)
 	* [Delegator](5-repositories-and-documentation/official-documentation/delegating.md)
 	* [Curator](5-repositories-and-documentation/official-documentation/curating.md)
+	* [The Graph Explorer](5-repositories-and-documentation/official-documentation/explorer.md)
 	* [Subgraph Studio](5-repositories-and-documentation/official-documentation/studio/)
 		* [How to use the Subgraph Studio](5-repositories-and-documentation/official-documentation/studio/subgraph-studio.md)
 		* [Deploy a Subgraph to the Subgraph Studio](5-repositories-and-documentation/official-documentation/studio/deploy-subgraph-studio.md)
