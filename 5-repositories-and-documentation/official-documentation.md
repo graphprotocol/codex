@@ -1,7 +1,7 @@
 # Official Documentation
 
 ## Getting Started
-https://thegraph.com/docs/en/
+{% embed url="https://thegraph.com/docs/en/" %}
 
 
 
@@ -9,10 +9,10 @@ https://thegraph.com/docs/en/
 
 
 ### Introduction
-https://thegraph.com/docs/en/about/introduction/
+{% embed url="https://thegraph.com/docs/en/about/introduction/" %}
 
 ### Network Overview
-https://thegraph.com/docs/en/about/network/
+{% embed url="https://thegraph.com/docs/en/about/network/" %}
 
 
 
@@ -21,43 +21,43 @@ https://thegraph.com/docs/en/about/network/
 
 
 ### Quick Start
-https://thegraph.com/docs/en/developer/quick-start/
+{% embed url="https://thegraph.com/docs/en/developer/quick-start/" %}
 
 ### Define a Subgraph
-https://thegraph.com/docs/en/developer/define-subgraph-hosted/
+{% embed url="https://thegraph.com/docs/en/developer/define-subgraph-hosted/" %}
 
 ### Create a Subgraph
-https://thegraph.com/docs/en/developer/create-subgraph-hosted/
+{% embed url="https://thegraph.com/docs/en/developer/create-subgraph-hosted/" %}
 
 ### Publish a Subgraph to the Decentralized Network
-https://thegraph.com/docs/en/developer/publish-subgraph/
+{% embed url="https://thegraph.com/docs/en/developer/publish-subgraph/" %}
 
 ### Query The Graph
-https://thegraph.com/docs/en/developer/query-the-graph/
+{% embed url="https://thegraph.com/docs/en/developer/query-the-graph/" %}
 
 ### Querying from an Application
-https://thegraph.com/docs/en/developer/querying-from-your-app/
+{% embed url="https://thegraph.com/docs/en/developer/querying-from-your-app/" %}
 
 ### Distributed Systems
-https://thegraph.com/docs/en/developer/distributed-systems/
+{% embed url="https://thegraph.com/docs/en/developer/distributed-systems/" %}
 
 ### AssemblyScript API
-https://thegraph.com/docs/en/developer/assemblyscript-api/
+{% embed url="https://thegraph.com/docs/en/developer/assemblyscript-api/" %}
 
 ### AssemblyScript Migration Guide
-https://thegraph.com/docs/en/developer/assemblyscript-migration-guide/
+{% embed url="https://thegraph.com/docs/en/developer/assemblyscript-migration-guide/" %}
 
 ### GraphQL API
-https://thegraph.com/docs/en/developer/graphql-api/
+{% embed url="https://thegraph.com/docs/en/developer/graphql-api/" %}
 
 ### Unit Testing Fraomework
-https://thegraph.com/docs/en/developer/matchstick/
+{% embed url="https://thegraph.com/docs/en/developer/matchstick/" %}
 
 ### Deprecating a Subgraph
-https://thegraph.com/docs/en/developer/deprecating-a-subgraph/
+{% embed url="https://thegraph.com/docs/en/developer/deprecating-a-subgraph/" %}
 
 ### Developer FAQs
-https://thegraph.com/docs/en/developer/developer-faq/
+{% embed url="https://thegraph.com/docs/en/developer/developer-faq/" %}
 
 
 
@@ -184,7 +184,3 @@ https://thegraph.com/docs/en/studio/subgraph-studio/#managing-your-api-keys
 
 #### How to Manage your Subgraph
 https://thegraph.com/docs/en/studio/subgraph-studio/#how-to-manage-your-subgraph
-
-
-
-
