@@ -87,12 +87,4 @@ Therefore a Delegator should always consider the Delegation Capacity of an Index
 
 This guide provides a full review of this document, and how to consider everything in this document while interacting with the UI.
 
-<figure className="video-container">
-  <iframe
-    className="video-iframe"
-    src="https://www.youtube.com/embed/2G7S2gdURdc"
-    title="YouTube video player"
-    frameBorder="0"
-    allowFullScreen
-  ></iframe>
-</figure>
+{% embed url="https://www.youtube.com/watch?v=2G7S2gdURdc" %}
