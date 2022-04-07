@@ -62,15 +62,21 @@
 
 #### [Discord](https://thegraph.com/discord)
 
-{% embed url="https://discord.gg/graphprotocol" %}
+{% hint style="info" %}
+[<mark style="color:blue;">Join the Discord Community!</mark>](https://discord.com/invite/graphprotocol)<mark style="color:blue;"></mark>
+{% endhint %}
 
 #### [Graph Protocol Twitter](https://twitter.com/graphprotocol)
 
-{% embed url="https://shr.link/si1iw" %}
+{% hint style="info" %}
+[Follow Graph Protocol on Twitter!](https://twitter.com/graphprotocol)
+{% endhint %}
 
 #### [Graph Grants Twitter](https://twitter.com/graphgrants)
 
-{% embed url="https://shr.link/3o2fu" %}
+{% hint style="info" %}
+[<mark style="color:blue;">Follow Graph Grants on Twitter!</mark>](https://twitter.com/graphgrants)<mark style="color:blue;"></mark>
+{% endhint %}
 
 #### [Telegram](https://t.me/GraphProtocol)
 
@@ -90,7 +96,9 @@
 
 #### [LinkedIn](https://https/linkedin.com/company/thegraph/)
 
-{% embed url="https://linkedin.com/company/thegraph/" %}
+{% hint style="info" %}
+[Follow The Graph on LinkedIn!](https://linkedin.com/company/thegraph/)
+{% endhint %}
 
 #### [Youtube](https://youtube.com/GraphProtocol)
 
