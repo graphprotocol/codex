@@ -44,5 +44,5 @@
 
 |                                         |   |   |
 | --------------------------------------- | - | - |
-| \{% embed url=https://everest.link" %\} |   |   |
+| {% embed url=https://everest.link" %} |   |   |
 |                                         |   |   |
