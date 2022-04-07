@@ -34,6 +34,14 @@
 
 {% embed url="http://forum.thegraph.com/" %}
 
+{% embed url="https://t.me/GraphProtocol" %}
+
+{% embed url="https://t.me/GraphProtocolOfficial" %}
+
+{% embed url="https://youtube.com/GraphProtocol" %}
+
+{% embed url="https://reddit.com/r/thegraph/" %}
+
 {% hint style="info" %}
 [<mark style="color:blue;">Join the Discord Community!</mark>](https://discord.com/invite/graphprotocol)
 {% endhint %}
@@ -46,10 +54,6 @@
 [<mark style="color:blue;">Follow Graph Grants on Twitter!</mark>](https://twitter.com/graphgrants)
 {% endhint %}
 
-{% embed url="https://t.me/GraphProtocol" %}
-
-{% embed url="https://t.me/GraphProtocolOfficial" %}
-
 {% hint style="info" %}
 [Follow The Graph on Medium!](https://medium.com/graphprotocol)
 {% endhint %}
@@ -61,10 +65,6 @@
 {% hint style="info" %}
 [Follow The Graph on LinkedIn!](https://linkedin.com/company/thegraph/)
 {% endhint %}
-
-{% embed url="https://youtube.com/GraphProtocol" %}
-
-{% embed url="https://reddit.com/r/thegraph/" %}
 
 {% embed url="https://facebook.com/TheGraphProtocol/" %}
 
