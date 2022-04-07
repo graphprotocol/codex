@@ -7,7 +7,7 @@
 
 {% embed url="https://www.encode.club/the-graph/" %}
 
-## Network Community Tools and Dashboards
+## Graph Protocol - Community Tools and Dashboards
 
 {% embed url="https://graphscan.io/" %}
 
