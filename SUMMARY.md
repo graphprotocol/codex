@@ -23,9 +23,13 @@
 
 ## Ecosystem Updates
 
-* [Council Meeting Notes](4-ecosystem-updates/council-meeting-notes.md)
 * [This Month in Indexing](4-ecosystem-updates/this-month-in-indexing.md)
 * [This Month in Curation](4-ecosystem-updates/this-month-in-curation.md)
+* [Council Meeting Notes](4-ecosystem-updates/council-meeting-notes.md)
+* [Governance](4-ecosystem-updates/governance/)
+	* [Graph Improvement Proposals (GIPs)](4-ecosystem-updates/governance/gips/)
+	* [Graph Request for Comments (GRCs)](4-ecosystem-updates/governance/grcs/)
+	* [Governance Resources](4-ecosystem-updates/governance/governance-resources.md)
 
 ## Repositories and Documentation
 
@@ -64,3 +68,4 @@
     * [Migrating an Existing Subgraph to The Graph Network](5-repositories-and-documentation/official-documentation/hosted-service/migrating-subgraph.md)
   * [Supported Networks](5-repositories-and-documentation/official-documentation/supported-networks/README.md)
     * [NEAR](5-repositories-and-documentation/official-documentation/supported-networks/near.md)
+
