@@ -93,7 +93,7 @@ The contract in this proposal is new and peripheral to the rest of the network c
 
 ## Audits
 
-An audit of the changes described in this document was performed by ChainSafe (see [`assets/gip-0006/TheGraph-GRTWithdrawHelper-Audit.pdf`](../assets/gip-0006/TheGraph-GRTWithdrawHelper-Audit.pdf)).
+An audit of the changes described in this document was performed by ChainSafe (see [`assets/gip-0006/TheGraph-GRTWithdrawHelper-Audit.pdf`](/assets/gip-0006/TheGraph-GRTWithdrawHelper-Audit.pdf)).
 
 ## Testnet
 

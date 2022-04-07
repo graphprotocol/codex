@@ -25,7 +25,7 @@ The curation market consists of Curators minting shares, also known as signaling
 1. A financially motivated Curator signals on a subgraph because they believe the present value (PV) of future curator royalties they will be entitled to is greater than the cost of minting shares.
 2. A decentralized application (dapp) developer signals on a subgraph in order to bootstrap Indexer services on the subgraph to power their application.
 
-![Principal-Protected Nested Curve](../assets/gip-0026/legacy_nested_curve_design.png)
+![Principal-Protected Nested Curve](/assets/gip-0026/legacy_nested_curve_design.png)
 
 The Graph's curation market uses a *nested bonding curve* design, as depicted above, where Curators may signal directly on an inner bonding curve representing a subgraph deployment or an outer bonding curve representing a subgraph that can have its version updated with new subgraph deployments while maintaining the same outer bonding curve state.
 
@@ -64,7 +64,7 @@ The GNS-level bonding curves, which currently use shares of subgraph deployment 
 
 Rather than using shares of subgraph deployment bonding curves, or *inner shares*, as reserves, GNS-level bonding curves must use the total cost basis of all inner shares as the reserve quantity to be used in the Bancor formula. Similarly, they should use the average cost basis of deposited reserves as the reserves deposited quantity in the Bancor formula.
 
-![Principal-Protected Nested Curve](../assets/gip-0026/new_nested_curve_design.png)
+![Principal-Protected Nested Curve](/assets/gip-0026/new_nested_curve_design.png)
 
 With this new composition design, **the reserve ratio of the GNS bonding curves should be changed from $1$ (a flat curve) to $1/2$** in order to the preserve the effective composed reserve ratio that currently exist in the protocol.
 
