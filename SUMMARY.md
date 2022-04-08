@@ -27,6 +27,7 @@
 * [This Month in Curation](4-ecosystem-updates/this-month-in-curation.md)
 * [Council Meeting Notes](4-ecosystem-updates/council-meeting-notes.md)
 * [Governance](4-ecosystem-updates/governance/)
+	* [Governance Resources](4-ecosystem-updates/governance/governance-resources.md)
 	* [Graph Improvement Proposals (GIPs)](4-ecosystem-updates/governance/gips/)
         *  [0000-template](4-ecosystem-updates/governance/gips/0000-template.md)
         *  [0001-gip-process](4-ecosystem-updates/governance/gips/0001-gip-process.md)
@@ -55,7 +56,7 @@
         *  [0026-decaying-curation-tax](4-ecosystem-updates/governance/gips/0026-decaying-curation-tax.md)
 	* [Graph Request for Comments (GRCs)](4-ecosystem-updates/governance/grcs/)
 		* [0001-data-edge](4-ecosystem-updates/governance/grcs/0001-data-edge.md)
-	* [Governance Resources](4-ecosystem-updates/governance/governance-resources.md)
+
 
 ## Repositories and Documentation
 
