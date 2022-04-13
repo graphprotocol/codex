@@ -17,6 +17,8 @@
 
 {% embed url="https://thegraph.stake-machine.com/" %}
 
+{% embed url="https://indexer-tools.vincenttaglia.com/" %}
+
 {% embed url="https://dune.xyz/abarmat/The-Graph-Overview/" %}
 
 
