@@ -16,10 +16,11 @@
 
 ## Workshops
 
-* [Developer Highlights](3-workshops/developer-highlights.md)
+* [Subgraph Development](3-workshops/Subgraph%20Development/)
+	* [Developer Highlights](3-workshops/Subgraph%20Development/developer-highlights.md)
+	* [Developer Guides](3-workshops/Subgraph%20Development/developer-guides.md)
+	* [Subgraph Testing (Matchstick)](3-workshops/Subgraph%20Development/subgraph-testing-matchstick.md)
 * [Protocol Workshops](3-workshops/protocol-workshops.md)
-* [Developer Guides](3-workshops/developer-guides.md)
-* [Subgraph Testing (Matchstick)](3-workshops/subgraph-testing-matchstick.md)
 
 ## Ecosystem Updates
 
