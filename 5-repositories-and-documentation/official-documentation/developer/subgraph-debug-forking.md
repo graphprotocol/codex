@@ -2,8 +2,6 @@
 title: Quick and easy subgraph debugging using forks
 ---
 
-> Note: this is only available from this `graph-node` [commit](https://github.com/graphprotocol/graph-node/commit/f4e6992d7949b18f990045c8babdcd205a060ef6) or this [docker tag](https://hub.docker.com/layers/graphprotocol/graph-node/f4e6992/images/sha256-51ad494a2ecc387bef2359d863b596ad5bd44436808964cf221e60365a7c00c8?context=explore) onwards, it hasn't been yet released in a minor release (eg: 0.26.0)
-
 As with many systems processing large amounts of data, The Graph's Indexers (Graph nodes) may take quite some time to sync-up your subgraph with the target blockchain. The discrepancy between quick changes with the purpose of debugging and long wait times needed for indexing is extremely counterproductive and we are well aware of that. This is why we are introducing **subgraph forking**, developed by [LimeChain](https://limechain.tech/), and in this article I will show you how this feature can be used to substantially speed-up subgraph debugging!
 
 ## Ok, what is it?
@@ -46,12 +44,12 @@ export function handleUpdatedGravatar(event: UpdatedGravatar): void {
 }
 ```
 
-Oops, how unfortunate, when I deploy my perfect looking subgraph to the [HostedService](https://thegraph.com/hosted-service/) it fails with the _"Gravatar not found!"_ error.
+Oops, how unfortunate, when I deploy my perfect looking subgraph to the [Hosted Service](https://thegraph.com/hosted-service/) it fails with the _"Gravatar not found!"_ error.
 
 The usual way to attempt a fix is:
 
 1. Make a change in the mappings source, which you believe will solve the issue (while I know it won't).
-2. Re-deploy the subgraph to the [HostedService](https://thegraph.com/hosted-service/) (or another remote Graph node).
+2. Re-deploy the subgraph to the [Hosted Service](https://thegraph.com/hosted-service/) (or another remote Graph node).
 3. Wait for it to sync-up.
 4. If it breaks again go back to 1, otherwise: Hooray!
 

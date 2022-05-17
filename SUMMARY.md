@@ -73,6 +73,7 @@
     * [Publish a Subgraph to the Decentralized Network](5-repositories-and-documentation/official-documentation/developer/publish-subgraph.md)
     * [Query The Graph](5-repositories-and-documentation/official-documentation/developer/query-the-graph.md)
     * [Querying from an Application](5-repositories-and-documentation/official-documentation/developer/querying-from-your-app.md)
+		* [Querying Best Practices](5-repositories-and-documentation/official-documentation/developer/querying-best-practices.md)
     * [Distributed Systems](5-repositories-and-documentation/official-documentation/developer/distributed-systems.md)
     * [AssemblyScript API](5-repositories-and-documentation/official-documentation/developer/assemblyscript-api.md)
     * [AssemblyScript Migration Guide](5-repositories-and-documentation/official-documentation/developer/assemblyscript-migration-guide.md)
@@ -88,6 +89,7 @@
     * [How to use the Subgraph Studio](5-repositories-and-documentation/official-documentation/studio/subgraph-studio.md)
     * [Deploy a Subgraph to the Subgraph Studio](5-repositories-and-documentation/official-documentation/studio/deploy-subgraph-studio.md)
     * [Billing on the Subgraph Studio](5-repositories-and-documentation/official-documentation/studio/billing.md)
+		* [Managing your API Keys](5-repositories-and-documentation/official-documentation/studio/managing-api-keys.md)
     * [Subgraph Studio FAQs](5-repositories-and-documentation/official-documentation/studio/studio-faq.md)
     * [Multisig Users](5-repositories-and-documentation/official-documentation/studio/multisig.md)
   * [Hosted Service](5-repositories-and-documentation/official-documentation/hosted-service/README.md)
@@ -96,4 +98,3 @@
     * [Migrating an Existing Subgraph to The Graph Network](5-repositories-and-documentation/official-documentation/hosted-service/migrating-subgraph.md)
   * [Supported Networks](5-repositories-and-documentation/official-documentation/supported-networks/README.md)
     * [NEAR](5-repositories-and-documentation/official-documentation/supported-networks/near.md)
-

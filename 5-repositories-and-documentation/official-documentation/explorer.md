@@ -4,11 +4,19 @@ title: The Graph Explorer
 
 Welcome to the Graph Explorer, or as we like to call it, your decentralized portal into the world of subgraphs and network data. 👩🏽‍🚀 The Graph Explorer consists of multiple parts where you can interact with other subgraph developers, dapp developers, Curators, Indexers, and Delegators. For a general overview of the Graph Explorer, check out the video below (or keep reading below):
 
-{% embed url="https://www.youtube.com/watch?v=u224xf7rEBY" %}
+<figure className="video-container">
+  <iframe
+    className="video-iframe"
+    src="https://www.youtube.com/embed/u224xf7rEBY"
+    title="YouTube video player"
+    frameBorder="0"
+    allowFullScreen
+  ></iframe>
+</figure>
 
 ## Subgraphs
 
-First things first, if you just finished deploying and publishing your subgraph in the Subgraph Studio, the Subgraphs tab on the top of the navigation bar is the place to view your own finished subgraphs (and the subgraphs of others) on the decentralized network. Here, you’ll be able to find the exact subgraph you’re looking for based on date created, signal amount, or name.
+First things first, if you just finished deploying and publishing your subgraph in the Subgraph Studio, the Subgraphs tab on the top of the navigation bar is the place to view your own finished subgraphs (and the subgraphs of others) on the decentralized network. Here, you’ll be able to find the exact subgraph you’re looking for based on the date created, signal amount, or name.
 
 ![Explorer Image 1](/img/Subgraphs-Explorer-Landing.png)
 
@@ -31,7 +39,7 @@ On each subgraph’s dedicated page, several details are surfaced. These include
 
 ## Participants
 
-Within this tab, you’ll get a bird’s eye view of all the people that are participating in the network activities, such as Indexers, Delegators, and Curators. Below, we’ll go into an in depth review of what each tab means for you.
+Within this tab, you’ll get a bird’s eye view of all the people that are participating in the network activities, such as Indexers, Delegators, and Curators. Below, we’ll go into an in-depth review of what each tab means for you.
 
 ### 1. Indexers
 
@@ -45,12 +53,12 @@ Let’s start with the Indexers. Indexers are the backbone of the protocol, bein
 - Owned - This is the Indexer’s deposited stake, which may be slashed for malicious or incorrect behavior
 - Delegated - Stake from Delegators which can be allocated by the Indexer, but cannot be slashed
 - Allocated - Stake that Indexers are actively allocating towards the subgraphs they are indexing
-- Available Delegation Capacity - the amount of delegated stake the Indexers can still receive before they become overdelegated
-- Max Delegation Capacity - the maximum amount of delegated stake the Indexer can productively accept. Excess delegated stake cannot be used for allocations or rewards calculations.
+- Available Delegation Capacity - the amount of delegated stake the Indexers can still receive before they become over-delegated
+- Max Delegation Capacity - the maximum amount of delegated stake the Indexer can productively accept. An excess delegated stake cannot be used for allocations or rewards calculations.
 - Query Fees - this is the total fees that end users have paid for queries from an Indexer over all time
 - Indexer Rewards - this is the total indexer rewards earned by the Indexer and their Delegators over all time. Indexer rewards are paid through GRT issuance.
 
-Indexers can earn both query fees and indexing rewards. Functionally, this happens when network participants delegate GRT to an Indexer. This enables Indexers to receive query fees and rewards depending on their Indexer parameters. Indexing parameters are set by clicking into the right hand side of the table, or by going into an Indexer’s profile and clicking the “Delegate” button.
+Indexers can earn both query fees and indexing rewards. Functionally, this happens when network participants delegate GRT to an Indexer. This enables Indexers to receive query fees and rewards depending on their Indexer parameters. Indexing parameters are set by clicking on the right-hand side of the table, or by going into an Indexer’s profile and clicking the “Delegate” button.
 
 To learn more about how to become an Indexer, you can take a look at the [official documentation](/indexing) or [The Graph Academy Indexer guides.](https://thegraph.academy/delegators/choosing-indexers/)
 
@@ -58,7 +66,7 @@ To learn more about how to become an Indexer, you can take a look at the [offici
 
 ### 2. Curators
 
-Curators analyze subgraphs to identify which subgraphs are of highest quality. Once a Curator has found a potentially attractive subgraph, they can curate it by signaling on its bonding curve. In doing so, Curators let Indexers know which subgraphs are high quality and should be indexed.
+Curators analyze subgraphs to identify which subgraphs are of the highest quality. Once a Curator has found a potentially attractive subgraph, they can curate it by signaling on its bonding curve. In doing so, Curators let Indexers know which subgraphs are high quality and should be indexed.
 
 Curators can be community members, data consumers, or even subgraph developers who signal on their own subgraphs by depositing GRT tokens into a bonding curve. By depositing GRT, Curators mint curation shares of a subgraph. As a result, Curators are eligible to earn a portion of the query fees that the subgraph they have signaled on generates. The bonding curve incentivizes Curators to curate the highest quality data sources. The Curator table in this section will allow you to see:
 
@@ -113,7 +121,7 @@ A few key details that are worth mentioning:
 
 ### Epochs
 
-In the Epochs section you can analyse on a per-epoch basis, metrics such as:
+In the Epochs section, you can analyze on a per-epoch basis, metrics such as:
 
 - Epoch start or end block
 - Query fees generated and indexing rewards collected during a specific epoch
