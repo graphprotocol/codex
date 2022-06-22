@@ -12,6 +12,8 @@
 
 {% embed url="https://everest.link/" %}
 
+{% embed url="https://edgeandnode.com/geo/" %}
+
 ## Governance
 
 {% embed url="https://thegraph.foundation" %}
