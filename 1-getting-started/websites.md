@@ -12,6 +12,8 @@
 
 {% embed url="https://everest.link/" %}
 
+{% embed url="https://edgeandnode.com/geo/" %}
+
 ## Governance
 
 {% embed url="https://thegraph.foundation" %}
@@ -27,6 +29,8 @@
 {% embed url="https://www.semiotic.ai/" %}
 
 {% embed url="https://www.the-guild.dev/" %}
+
+{% embed url="https://graphops.xyz/" %}
 
 ## Channels
 
