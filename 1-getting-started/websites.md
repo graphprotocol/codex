@@ -30,6 +30,8 @@
 
 {% embed url="https://www.the-guild.dev/" %}
 
+{% embed url="https://graphops.xyz/" %}
+
 ## Channels
 
 {% embed url="https://thegraph.com/blog/" %}
