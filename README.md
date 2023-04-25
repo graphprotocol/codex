@@ -146,6 +146,7 @@ description: >-
 * [Time travel queries](https://blocklytics.org/blog/ethereum-blocks-subgraph-made-for-time-travel/)
 * [Date strings in AssemblyScript](https://medium.com/blockrocket/how-to-create-date-strings-using-assemblyscript-in-the-graph-f7871f48e92d)
 * [Scaffold-eth](https://github.com/austintgriffith/scaffold-eth/tree/graph-dev)
+* [Create-web3-app](https://github.com/alchemyplatform/create-web3-dapp)
 * [Create-eth-app](https://github.com/PaulRBerg/create-eth-app)
 
 #### Workshops
